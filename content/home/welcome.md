@@ -2,9 +2,9 @@
 widget: hero
 headless: true
 weight: 10
-title: student
+title: Debjani Sihi
 hero_media: welcome.jpg
-widget_id: Test
+widget_id: test
 design:
   columns: "1"
   css_style: null
