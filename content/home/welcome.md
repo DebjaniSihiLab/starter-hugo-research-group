@@ -2,9 +2,9 @@
 widget: hero
 headless: true
 weight: 10
-title: SIHI
+title: student
 hero_media: welcome.jpg
-widget_id: SIHI LAB
+widget_id: Test
 design:
   columns: "1"
   css_style: null
