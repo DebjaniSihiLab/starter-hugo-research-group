@@ -4,7 +4,7 @@ headless: true
 weight: 10
 title: Debjani Sihi
 hero_media: welcome.jpg
-widget_id: sihi
+widget_id: sihi lab
 design:
   columns: "1"
   css_style: null
