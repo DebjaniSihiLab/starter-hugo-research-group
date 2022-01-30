@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: SIHI LAB Research Group
+title: SIHI Group
 hero_media: welcome.jpg
 widget_id: SIHI LAB
 design:
