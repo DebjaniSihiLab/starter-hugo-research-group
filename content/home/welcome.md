@@ -6,7 +6,7 @@ title: |
   Wowchemy  
   Research Group
 hero_media: welcome.jpg
-widget_id: RECENT-POSTS
+widget_id: SIHI LAB
 design:
   columns: "1"
   css_style: null
