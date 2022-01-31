@@ -1,7 +1,7 @@
 ---
 type: widget_page
 widget: blank
-widget_id: test
+widget_id: what is this?
 headless: true
 weight: 10
 ---
