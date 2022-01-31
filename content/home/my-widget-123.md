@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: main
 widget_id: main
 headless: true
 weight: 10
