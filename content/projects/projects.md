@@ -1,24 +1,15 @@
+
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: projects
+widget: blank
 headless: true
-weight: 18
 
-title: Projects
+# ... Put Your Section Options Here (title etc.) ...
+title: My New Section
 subtitle:
-
-content:
-  count: 5
-  filters:
-    author: ""
-    category: ""
-    exclude_featured: false
-    publication_type: ""
-    tag: ""
-  offset: 0
-  order: desc
-  page_type: event
+weight: 10  # section position on page
 design:
-  view: 3
-  columns: "2"
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
+
+Add any content here - text, images, videos, galleries - and even HTML code!
