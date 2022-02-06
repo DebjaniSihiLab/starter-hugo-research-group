@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: projects
 headless: true
-weight: 20
+weight: 18
 
-title: Latest News
+title: Projects
 subtitle:
 
 content:
@@ -17,8 +17,8 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: event
 design:
-  view: 4
+  view: 3
   columns: "2"
 ---
