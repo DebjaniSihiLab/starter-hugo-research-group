@@ -6,7 +6,7 @@ title: Debjani Sihi
 superuser: true
 
 # Role/position
-role: Professor 
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
@@ -19,19 +19,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - SOC
 - climate change
-- Information Retrieval
+- GHG emmision
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD 
+    institution: University of Florida
+    #year: 2012
+  - course: MS
+    institution:  Indian Agricultural Research Institute
+    #year: 2009
+  - course: BS
+    institution:  Indian Agricultural Research Institute
+    #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,6 +68,8 @@ user_groups:
 - Researchers
 ---
 
-Deb is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an environmental biogeochemist with a broad research interest in soil organic matter dynamics and greenhouse gas emissions from natural and managed systems. My research works include both empirical studies and process-based modeling. I use biogeochemical models to evaluate the fate of soil (and ecosystem) carbon (and nutrient) in the face of climate change in systems ranging from the tropics and subtropics to temperate and boreal transition forests.
 
-test to see.
+I received the prestigious Gene E. Likens Award from the Biogeosciences section of the Ecological Society of America in 2018 and Best Student Authored Paper Award from Soil Ecology Society in 2019 for my research products. My research has also been highlighted in Nature Climate Change and the special issue for the 25th anniversary of Global Change Biology. You can also find research-based stories of my work at Science Trends and Research Matters.    
+
+Addressing cutting-edge research questions on pressing environmental issues like climate change and sustainability using multi-scale and multi-disciplinary approaches always keeps me going. At Emory, I aspire to address a wide range of environmental problems at soil-climate-health-policy nexus under the umbrella of sustainability. If you are interested in joining my research group, contact me at debjani.sihi@emory.edu.  
