@@ -18,7 +18,9 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
-  - Grad Students
+  - Graduate Students
+  - Undergraduate Students
+  - Lab Assistant
   - Administration
   - Visitors
   - Alumni
@@ -26,4 +28,5 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  columns: '2'
 ---

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Bausemer, Paul D. 
+title: Paul Bausemer
 
 # Username (this should match the folder name)
 authors:
-- Bausemer, Paul D. 
+- Paul Bausemer
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Post Doc
+role: Lab Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Artificial Intelligence
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  #- course: PhD in Artificial Intelligence
+  #  institution: Stanford University
+  #  year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -66,8 +66,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Lab Assistant
 
 ---
 
-Zhuonan Wang is a Post Doc of ecosystem modeling at the Emory Sihi Lab. 
+Paul is a Lab Assistant at the Emory Sihi Lab. 
