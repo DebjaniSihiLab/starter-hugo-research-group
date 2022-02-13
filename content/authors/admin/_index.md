@@ -41,23 +41,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV-Sihi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "debjani.sihi@emory.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -65,7 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
+#- Researchers
+
 ---
 
 I am an environmental biogeochemist with a broad research interest in soil organic matter dynamics and greenhouse gas emissions from natural and managed systems. My research works include both empirical studies and process-based modeling. I use biogeochemical models to evaluate the fate of soil (and ecosystem) carbon (and nutrient) in the face of climate change in systems ranging from the tropics and subtropics to temperate and boreal transition forests.
