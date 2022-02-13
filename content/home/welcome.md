@@ -1,25 +1,38 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+# An instance of the Tag Cloud widget.
+# Docs: https://wowchemy.com/docs/page-builder/
+widget: blank
 
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+# This file represents a page section.
+headless: true
 
-title: |
-  Debjani Sihi  
-  Research Group
+# Order that this section appears on the page.
+weight: 10
 
-hero_media: soil.jpg #welcome.jpg
+title: Sihi Biogeochemistry Lab 
+#subtitle: An example of writing _open_ slides with Markdown
+
+
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
+  # Minimum and maximum font sizes (1.0 = 100%).
+  font_size_min: 1
+  font_size_max: 2.5
   columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  
+  background:
+    image: 222.jpg
+    image_darken: 0.5
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: True
+  spacing:
+    padding: ["20px", "80px", "20px", "80px"]
 ---
 
-<br>
+**Sihi Biogeochemistry Lab**  specializes in measuring and modeling Soil Organic Matter (or Carbon) dynamics and Greenhouse Gas Emissions from natural and managed ecosystems. We enjoy coupling data generated from empirical studies and environmental networks with process-based (aka mechanistic) and machine learning models. We use biogeochemical models to evaluate the fate of soil (and ecosystem) carbon (and nutrient) in the face of climate change in systems ranging from the tropics and subtropics to temperate and temperate-boreal transition zones and soils from forests, wetlands, grasslands, and agricultural landscapes. 
 
-The **Debjani Sihi Research Group** has been a center of excellence for Soil research, teaching since its founding in 2020 at Emory University.
+We are funded by the National Science Foundation, Department of Energy, Valent U.S.A./Valent Biosciences, Emory College of Arts and Sciences, University Research Council, and Halle Institute for Global Research at Emory University.
+
+If you are interested in joining our group, please email the PI (Debjani Sihi) at debjani.sihi@emory.edu. 
+
