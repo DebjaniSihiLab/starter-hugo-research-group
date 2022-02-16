@@ -16,11 +16,11 @@ title: Sihi Biogeochemistry Lab
 design:
   # Minimum and maximum font sizes (1.0 = 100%).
   font_size_min: 1
-  font_size_max: 2.5
+  font_size_max: 2.0
   columns: '1'
   
   background:
-    image: 222.jpg
+    image: cover.jpg
     image_darken: 0.5
     image_parallax: true
     image_position: center
