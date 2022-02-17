@@ -70,5 +70,5 @@ user_groups:
 
 ---
 
-Zhuonan Wang is a Post Doc of ecosystem modeling at the Emory University. 
-Terrestrial ecosystem modeling, Coupled modeling of carbon-nutrients (N and P) in Terrestrial ecosystems, Nitrogen and phosphorus dynamics, Nutrients limitation and tropical forest ecology, Terrestrial-Aquatic Interface, GIS application in natural resources.   
+Zhuonan Wang is a Postdoctoral Fellow in Environmental Sciences at Emory University. 
+He is interested in Terrestrial ecosystem modeling, Coupled modeling of carbon-nutrients (N and P) in Terrestrial ecosystems, Nitrogen and phosphorus dynamics, SOC prediction, and Terrestrial-Aquatic Interface.   

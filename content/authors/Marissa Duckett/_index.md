@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- soil carbon
-- soil biochemistry
+# interests:
+# - soil carbon
+# - soil biochemistry
 
 
-education:
-  courses:
-  - course: PhD in 
-    institution: Emory University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in 
+#     institution: Emory University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'marissa.duckett@emory.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/Duckett CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +69,4 @@ user_groups:
 - Graduate Students
 ---
 
-Marissa Duckett is a PhD student.
+I am currently (Spring 2022) a 2nd year PhD student in Laney Graduate School’s program in Population Biology, Ecology, and Evolution. I graduated with a BS in Microbiology with Honors from the University of Kansas in Spring 2020. Although my undergraduate education is in infectious disease microbiology, my Honors thesis focused un characterizing microbial communities in stromatolites. I intend to do similar work in Terrestrial Aquatic Interfaces, using microbial community characterization to inform greenhouse gas emission predictions.

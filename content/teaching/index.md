@@ -17,10 +17,16 @@ header:
 ## Courses taught (virtual and in-person)
 
 #### Fund. Concepts in Soil Sci (ENVS 285) 
-(Add Syllabus: Syllabus for Fund. Concepts in Soil Sci - Spring 2021.pdf, and Course Evaluation: Course Evaluation-Fund. Concepts in Soil Sci-Sihi.pdf from https://drive.google.com/drive/u/0/folders/1NnFoI2rPDnjswa_b6SR5gvB2h2296gtw)
+{{% staticref "uploads/Syllabus for Fund. Concepts in Soil Sci - Spring 2021.pdf" "newtab" %}}Download Syllabus for Fund. Concepts in Soil Sci - Spring 2021{{% /staticref %}}
+
+{{% staticref "uploads/Course Evaluation-Fund. Concepts in Soil Sci-Sihi.pdf" "newtab" %}}Download Course Evaluation-Fund. Concepts in Soil Sci-Sihi{{% /staticref %}}
+
 
 #### Biogeochemistry and Environmental Health (ENVS 385/585) 
-(Add Syllabus: Syllabus for Biogeochemistry and Env. Health- Fall 2021.pdf, and Course Evaluation: Course Evaluation-Biogeochemistry and Env. Health-Sihi.pdf from https://drive.google.com/drive/u/0/folders/1NnFoI2rPDnjswa_b6SR5gvB2h2296gtw)
+{{% staticref "uploads/Syllabus for Biogeochemistry and Env. Health- Fall 2021.pdf" "newtab" %}}Download Syllabus for Biogeochemistry and Env. Health- Fall 2021{{% /staticref %}}
+
+{{% staticref "uploads/Course Evaluation-Biogeochemistry and Env. Health-Sihi.pdf" "newtab" %}}Course Evaluation-Biogeochemistry and Env. Health-Sihi{{% /staticref %}}
+
 
 ## Mentored undergraduate and graduate students for research credits:
 

@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'aditya.kolisetti@emory.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,4 +70,5 @@ user_groups:
 
 ---
 
-Aditya Kolisetti...
+Aditya is a sophomore at Emory University, currently majoring with a B.S. in Chemistry and an English minor. His work in the Sihi Lab focuses on amino sugar mineralization metrics and sampling of Georgia's soil necromass content as an indicator of CO2 sequestration for climate remediation and agricultural soil enrichment. Outside the lab, Aditya is a Learning Assistant for Introductory Chemistry classes, a freelance teacher, rock-climbing enthusiast, and a digital artist.
+
