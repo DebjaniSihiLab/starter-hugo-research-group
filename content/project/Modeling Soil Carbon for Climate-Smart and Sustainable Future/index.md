@@ -3,8 +3,7 @@
 
 title: Modeling Soil Carbon for Climate-Smart and Sustainable Future
 
- 
-#summary: "Funding source: Valent Biosciences/Valent U.S.A. (Carbon sequestration in agricultural soils, https://www.halo.science/research/agriculture/carbon-sequestration)"
+summary: "Funding source: Halle Institute for Global Research, Emory University and The Halle Foundation Collaborative Research Grant"
 authors: []
 tags: []
 categories: []
