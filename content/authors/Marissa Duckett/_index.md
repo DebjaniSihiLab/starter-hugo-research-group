@@ -44,7 +44,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'marissa.duckett@emory.edu'
+  link: 'mailto:marissa.duckett@emory.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

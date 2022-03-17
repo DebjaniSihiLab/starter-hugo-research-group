@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zoe.price@emory.edu'
+  link: 'mailto:zoe.price@emory.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

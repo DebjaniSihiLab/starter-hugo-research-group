@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zhuonan.wang@emory.edu'
+  link: 'mailto:zhuonan.wang@emory.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

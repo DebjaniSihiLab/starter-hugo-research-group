@@ -44,7 +44,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:paul.d.bausemer@emory.edu'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

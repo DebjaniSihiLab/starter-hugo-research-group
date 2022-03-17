@@ -44,7 +44,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'aditya.kolisetti@emory.edu'
+  link: 'mailto:aditya.kolisetti@emory.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
