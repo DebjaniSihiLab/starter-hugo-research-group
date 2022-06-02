@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- past members
 
 ---
 Jack Kagan is a sophomore at Emory University majoring in Environmental Science on the Earth and Atmospheric Science B.S. Track. When he is not in Atlanta for college, Jack lives in Houston, Texas, which is where he is from. Outside of classes, Jack enjoys bouldering, listening to music, and playing basketball.
