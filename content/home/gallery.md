@@ -30,9 +30,5 @@ design.spacing:
  
 # and more…
 ---
-## Life:
-{{< gallery album="a" >}}
 
-
-## Research:
-{{< gallery album="b" >}}
+{{< gallery album="life" >}}
