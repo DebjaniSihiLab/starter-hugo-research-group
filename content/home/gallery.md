@@ -4,8 +4,8 @@ headless : true  # This file represents a page section.
 active : true  # Activate this widget? true/false
 weight : 25  # Order that this section will appear.
 
-title : ""
-subtitle : ""
+title : "Photo Gallery"
+subtitle : "Gallery"
 
 design:
   columns: "1"
@@ -30,5 +30,9 @@ design.spacing:
  
 # and more…
 ---
-
+## Life:
 {{< gallery album="a" >}}
+
+
+## Research:
+{{< gallery album="b" >}}
