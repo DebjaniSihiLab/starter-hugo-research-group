@@ -31,4 +31,4 @@ design.spacing:
 # and more…
 ---
 
-{{ < gallery album="<a>" > }}
+{{< gallery album="a" >}}
