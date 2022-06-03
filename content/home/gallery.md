@@ -28,7 +28,7 @@ design.spacing:
 #  image : "images/screenshot.png"
 #  caption : "PIN Keypad with fallback option to softkeyboard"
  
-# and more…
+# and more…  
+# {{< gallery album="wired" >}} 
 ---
-
-{{< gallery album="life" >}}
+{{< gallery album="wired" >}} 
