@@ -1,5 +1,5 @@
 ---
-title: 'Marshall McCall get a position at the Morton Arboretum REU this summer outside of Chicago'
+title: 'Marshall McCall gets a position at the Morton Arboretum REU this summer outside of Chicago'
 date: 2022-04-29
 profile: false  # Show author profile
 image:
