@@ -28,6 +28,6 @@ form:
 design:
   columns: '1'
 ---
- [We invite applications for a postdoctoral researcher on soil carbon in agriculture at the Department of Environmental Sciences, Emory University.](https://faculty-emory.icims.com/jobs/84869/post-doctoral-fellow--environmental-sciences/job?mobile=false&width=1540&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)
+
 
 If you are interested in joining my research group, contact me at debjani.sihi@emory.edu.
