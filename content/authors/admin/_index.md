@@ -41,20 +41,27 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:debjani.sihi@emory.edu'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rebekah-yeaeun-lee/
+- icon: twitter
+  icon_pack: fab
+  link: files/CV-Sihi.pdf
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=XWA6-78AAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: fax
+  icon_pack: fas
+  link: files/CV-Sihi.pdf
+- icon: arrow-up-right-from-square
+  icon_pack: fas
+  link: files/CV-Sihi.pdf
+- icon: file-lines
+  icon_pack: fas
+  link: files/CV-Sihi.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/CV-Sihi.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "debjani.sihi@emory.edu"
@@ -75,3 +82,8 @@ I am an environmental biogeochemist with a broad research interest in soil organ
 I received the prestigious Gene E. Likens Award from the Biogeosciences section of the Ecological Society of America in 2018 and Best Student Authored Paper Award from Soil Ecology Society in 2019 for my research products. My research has also been highlighted in Nature Climate Change and the special issue for the 25th anniversary of Global Change Biology. You can also find research-based stories of my work at Science Trends and Research Matters.    
 
 Addressing cutting-edge research questions on pressing environmental issues like climate change and sustainability using multi-scale and multi-disciplinary approaches always keeps me going. At Emory, I aspire to address a wide range of environmental problems at soil-climate-health-policy nexus under the umbrella of sustainability. If you are interested in joining my research group, contact me at debjani.sihi@emory.edu.  
+
+Phone
+O: 404-727-4252 | C: 352-222-5655
+
+Profile: http://envs.emory.edu/home/people/bios/Sihi-Debjani.html
