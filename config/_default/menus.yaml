@@ -16,6 +16,9 @@ main:
   - name: Projects
     url: project
     weight: 45
+  - name: Previous Projects
+    url: previous_project
+    weight: 47
   - name: Publications
     url: publication
     weight: 50

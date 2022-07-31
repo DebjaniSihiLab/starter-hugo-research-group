@@ -51,8 +51,10 @@ Brief description of the project:\
 One of the most effective nature-based climate change solutions lies right under our feet, it is soil. Climate change negotiations at the Parties climate conference (COP21) called for action plans to enhance soil carbon (C) storage globally to combat climate change. The multifaceted benefits of soil C storage can also ensure food and nutritional security for our global population and help meet the United Nations Sustainable Development Goals. We are conducting collaborative research to evaluate soil C dynamics under different environmental conditions and human activities related to natural resource management by coupling state-of-the-art soil and land-surface models with environmental datasets collected at regional and global scales. We are leveraging existing collaborations and broaden networking with interdisciplinary experts (soil scientist, environmental scientist, hydrologist, biogeochemist, computer scientist, and social scientist) from multiple institutes, where undergraduate and graduate students and faculties are exchanging knowledge through presentations and co-authored publications.
 <p>&nbsp;</p>
 
-Related Publication: \
+Related Publication: 
+
 Baatz, R., Hendricks-Franssen, H., Euskirchen, E., Sihi, D., Dietze, M., Van Looy, K., de Lannoy, G., Williams, M., Pauwels, V., Montzka, C., Mishra, U., Bogena, H., Adamescu, M., Fox, A., Görgen, K., Naz, B., and Vereecken, H. Reanalysis in Earth System Science: Towards Terrestrial Ecosystem Reanalysis. Reviews of Geophysics, 2021, DOI: 10.1029/2020RG000715.
+
 
 
 [comment]: <> ( {{< figure src="Valent Project.jpg" >}} )

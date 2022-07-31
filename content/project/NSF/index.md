@@ -56,7 +56,16 @@ We will validate our algorithms developed with NEON data with other point-scale 
 
 Related Presentation:
 
-Sihi, D., Kumar, J., Wang Z.*, and Weintraub, S. Upscaling soil organic carbon measurements from NEON terrestrial sites to CONUS using a multivariate quantitative method. American Geophysical Union Fall Meeting, New Orleans, LA, Dec 13-17, 2021.\
-\* post-doctoral trainee
+Sihi, D., Kumar, J., Wang Z.*, and Weintraub, S. Upscaling soil organic carbon measurements from NEON terrestrial sites to CONUS using a multivariate quantitative method. American Geophysical Union Fall Meeting, New Orleans, LA, Dec 13-17, 2021.
 
+Sihi, D., Kumar, J., Wang, Z.*, & Weintraub-Leff, S. R. (2021, December). Upscaling Soil Organic Carbon Measurements from NEON Terrestrial Sites to CONUS using a Multivariate Quantitative Method. In AGU Fall Meeting 2021 (INVITED). 
+
+Sihi, D., Kumar, J., Wang, Z.*, & Weintraub-Leff, S. R. (2022, February). Upscaling Soil Organic Carbon Measurements at the continental scale by multivariate clustering analysis. In the US DOE's RUBISCO SOC Working group meeting (INVITED). 
+
+Wang, Z.*, Sihi, D., Kumar, J., & Weintraub-Leff, S. R. (2022, May). Upscaling Soil Organic Carbon Measurements using a Multivariate Quantitative Method. In the 9th Annual Southeastern Biogeochemistry Symposium. 
+
+Kolisetti, A.#, Sihi, D., Sinsuan, A. F., Bausemer, P. D. (2022, April). Evaluating microbial necromass as a proxy for soil carbon sequestration. In the 9th Annual Southeastern Biogeochemistry Symposium. 
+
+\* post-doctoral trainee
+\# undergrad student
 

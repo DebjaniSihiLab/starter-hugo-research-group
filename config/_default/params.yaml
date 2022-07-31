@@ -123,9 +123,10 @@ marketing:
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
-cms:
-  branch: main
-  local_backend: false
-icon:
-  pack:
-    ai: true
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true

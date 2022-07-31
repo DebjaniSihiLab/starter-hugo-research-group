@@ -24,6 +24,13 @@ We are incorporating probability distributions of redox processes at soil micros
 
 <p>&nbsp;</p>
 
+Related Presentation:
 
+Sihi, D., Zheng, J., Wang, Z.*, Davidson, E., Megonigal, P., Weintraub, M., and Duckett, M.# Developing a probabilistic framework to capture redox heterogeneity and greenhouse gas predictions in Terrestrial-Aquatic Interfaces. DOE ESS PI Meeting, May 24-26, 2022 (Virtual).  
+
+Duckett, M.# and Sihi, D. Evaluating Spatiotemporal Soil Microbial Ecology to Understand Greenhouse Gas Emissions in Terrestrial Aquatic Interfaces In the 9th Annual Southeastern Biogeochemistry Symposium, Atlanta, GA, Apr31-May 1, 2022. 
+
+\* post-doctoral trainee
+\# graduate  student
 
 

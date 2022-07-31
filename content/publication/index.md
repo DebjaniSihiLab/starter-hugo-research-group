@@ -16,6 +16,8 @@ header:
 
 Peer-reviewed publications
 
+1. Bhaduri, D., Sihi, D., Bhowmik, A., Verma, B. C., Munda, S., and Dari, B., A Review on Effective Soil Health Bioindicators for Ecosystem Restoration and Sustainability. Frontiers in Microbiology, 2022, doi: 10.3389/fmicb.2022.938481  
+2. Yuan, T., Chen, S., Zhang, Y., Ji, L., Dari, B., Sihi, D., Xu, D., Zhang, Z., Yan, Z., and Wang, X. Mechanism of increased soil phosphorus availability in a calcareous soil by ammonium polyphosphate, 2022. DOI: https://doi.org/10.1007/s00374-022-01650-z  
 1. Sihi D, Dari B, Kuruvila AP, Jha G and Basu K (2022) Explainable Machine Learning Approach Quantified the Long-Term (1981–2015) Impact of Climate and Soil Properties on Yields of Major Agricultural Crops Across CONUS. Front. Sustain. Food Syst. 6:847892. doi: 10.3389/fsufs.2022.847892.
 1. O'Connell, C. S., Anthony, T. L., Mayes, M. A., Pérez, T., Sihi, D., Silver, W., Utilizing novel field and data exploration methods to explore hot moments in high-frequency soil nitrous oxide emissions data: Opportunities and challenges. Frontiers in Forests and Global Change, 2022.
 2. Sihi, D., Xu, X., Ortiz, M. S., O’Connell C., Silver, W., López-Lloreda, C., Brenner, J., Quinn, R., Phillips, J., Newman, B., and Mayes, M. A. Improved representations of methane emissions from wet tropical forest soils using a microbial functional group-based model coupled with a diffusivity module. Biogeosciences, 18, 1-18, 2021, DOI: https://doi.org/10.5194/bg-18-1-2021.

@@ -43,25 +43,28 @@ social:
   link: 'mailto:debjani.sihi@emory.edu'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rebekah-yeaeun-lee/
+  link: https://www.linkedin.com/in/debjani-sihi-29a00418/
 - icon: twitter
   icon_pack: fab
-  link: files/CV-Sihi.pdf
-- icon: google
-  icon_pack: fab
+  link: https://twitter.com/debjani_sihi
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=XWA6-78AAAAJ&hl=en
-- icon: fax
-  icon_pack: fas
+- icon: cv 
+  icon_pack: ai
   link: files/CV-Sihi.pdf
 - icon: arrow-up-right-from-square
   icon_pack: fas
-  link: files/CV-Sihi.pdf
-- icon: file-lines
-  icon_pack: fas
-  link: files/CV-Sihi.pdf
-- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://envs.emory.edu/people/bios/Sihi-Debjani.html
+
+# - icon: fax
+#   icon_pack: fas
+#   link: files/CV-Sihi.pdf
+
+# - icon: file-lines
+#   icon_pack: fas
+#   link: files/CV-Sihi.pdf
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -75,7 +78,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 #- Researchers
 
 ---

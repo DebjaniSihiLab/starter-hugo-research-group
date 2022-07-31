@@ -50,13 +50,20 @@ Brief description of the project:\
 Soil organic matter (SOM) regulates the capacity of soil to provide regulatory ecosystem services. However, measuring changes of SOM effectively warrants taking its differences into account. Current efforts (climate-smart land-management practices) to promote SOM storage miss a key point. An improved understanding of how different SOM fractions (particulate organic matter, POM and mineral-associated organic matter, MAOM) work and how land management practices change their relative distribution is of paramount importance to meet the two most pressing problems facing our planet: climate change and food security. We are evaluating the dynamics of POM and MAOM under biochar amendment. We chose biochar because this is a climate-smart approach, which holds promise for a sustainable food future in nutrient-poor soils of tropics and subtropics. The findings will provide an innovative solution to evaluate the impact of climate-smart land-management practices, which have important policy implications. 
 <p>&nbsp;</p>
 
-Related Presentations:\
-Sihi, D. and Dari, B. Evaluating Soil Organic Matter Dynamics Under Cover Crop and Biochar Amendment. ASA-CSSA-SSSA Meeting, Salt Lake City, UT, Nov 7-10, 2021 (virtual talk).\
-Sihi, D. and Dari, B. Biochar Amendment Influenced Distribution of Soil Organic Matter Fractions: A Climate-Smart Approach to Ensure Food Security.  Ecological Society of America Meeting (virtual poster), Aug 2-6, 2021.\
-Trifonova, K.* and Sihi, D. Building Soil Organic Matter through Biochar Amendment: A Climate-Smart Approach to Ensure Food Security. Undergraduate Research Programs Summer Symposium, Emory College of Arts and Sciences, (virtual poster), Aug 5, 2021.\
-\* undergraduate trainee
 
+Presentations: 
 
+(i) Sihi, D. and Dari, B. Evaluating Soil Organic Matter Dynamics Under Cover Crop and Biochar Amendment. ASA-CSSA-SSSA Meeting, Salt Lake City, UT, Nov 7-10, 2021 
+
+(ii) Sihi, D. and Dari, B. Biochar Amendment Influenced Distribution of Soil Organic Matter Fractions: A Climate-Smart Approach to Ensure Food Security. Ecological Society of America Meeting, Aug 2-6, 2021 
+
+Articles: 
+
+(i) Sihi, D., Dari, B., Kuruvila, A. P., Jha, G., & Basu, K. (2022). Explainable Machine Learning Approach Quantified the Long-Term (1981–2015) Impact of Climate and Soil Properties on Yields of Major Agricultural Crops Across CONUS. Frontiers in Sustainable Food Systems, 145 
+
+(iii) McLennon, E., Dari, B., Jha, G., Sihi, D., & Kankarla, V. (2021). Regenerative agriculture and integrative permaculture for sustainable and technology driven global food production and security. Agronomy Journal, 113(6), 4541-4559 
+
+(iv) Jha, G., Sihi, D., Dari, B., Kaur, H., Nocco, M. A., Ulery, A., & Lombard, K. (2021). Rapid and inexpensive assessment of soil total iron using Nix Pro color sensor. Agricultural & Environmental Letters, 6(3), e20050 
 
 
 
