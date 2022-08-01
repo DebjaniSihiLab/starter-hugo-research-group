@@ -1,5 +1,5 @@
 ---
-title: Valent U.S.A. and Valent Biosciences selected Debjani Sihi for fully-funded one year projects, with the opportunity for extension based on year-end results.
+title: Valent U.S.A. and Valent Biosciences selected Debjani Sihi to quantify soil carbon in agricultural landscapes
 
 
 date: 2022-07-31
