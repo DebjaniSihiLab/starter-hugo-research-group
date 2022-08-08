@@ -13,8 +13,8 @@ main:
   - name: Teaching
     url: teaching
     weight: 40
-  - name: Projects
-    url: project
+  - name: Current Projects
+    url: currentprojects
     weight: 45
   - name: Previous Projects
     url: previousproject
