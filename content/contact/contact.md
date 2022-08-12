@@ -21,7 +21,7 @@ content:
     street: E528 Math and Science Center, 5th floor
     city: Atlanta
     region: GA
-    postcode: '94305'
+    postcode: '30322'
     country: United States
     country_code: US
     
