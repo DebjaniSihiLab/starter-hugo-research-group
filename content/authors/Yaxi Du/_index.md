@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 # - Terrestrial ecosystem model
@@ -33,7 +33,7 @@ education:
   # - course: MS in Natural Resource Management
   #   institution: Auburn University
   #   year: 2019
-  - course: BS in Acquaculture
+  - course: BS 
     institution: University of California, Davis
     year: 2022
 
