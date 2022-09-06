@@ -1,16 +1,16 @@
-<!-- ---
+---
 # Display name
-title: Marissa Duckett
+title: Alex
 
 # Username (this should match the folder name)
 authors:
-- Marissa Duckett
+- Alex
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
-# - soil carbon
-# - soil biochemistry
-
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 # education:
 #   courses:
-#   - course: PhD in 
-#     institution: Emory University
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
 #     year: 2012
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
@@ -44,7 +44,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:marissa.duckett@emory.edu'
+  link: 'mailto:aditya.kolisetti@emory.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Duckett CV.pdf
+  link: files/Kolisetti_Aditya_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,7 +66,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Undergraduate Students
+
 ---
 
-I am currently (Spring 2022) a 2nd year PhD student in Laney Graduate School’s program in Population Biology, Ecology, and Evolution. I graduated with a BS in Microbiology with Honors from the University of Kansas in Spring 2020. Although my undergraduate education is in infectious disease microbiology, my Honors thesis focused un characterizing microbial communities in stromatolites. I intend to do similar work in Terrestrial Aquatic Interfaces, using microbial community characterization to inform greenhouse gas emission predictions. -->
+Alex is a sophomore at Emory University, currently majoring with a B.S. in Chemistry.
+
