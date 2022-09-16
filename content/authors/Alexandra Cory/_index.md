@@ -21,21 +21,21 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Agroecosystem process models
+- wetland GHG
 - Soil organic carbon
 - Greenhouse gas balance
 - Climate change mitigation and adaptation
 education:
   courses:
-  - course: PhD in Environment and Natural Resources, Soil Science Specialization
-    institution: The Ohio State University
-    year: 2020
-  - course: MS in Environmental Science
-    institution: The Ohio State University
-    year: 2017
-  - course: BS in Computer Science
-    institution: Principia College
-    year: 1998
+  - course: PhD in Chemical Oceanography
+    institution: Florida State University
+    year: 2022
+  - course: MS in STEM Teaching 
+    institution: Florida State University
+    year: 2021
+  - course: BS in Geology, Music, Minor Environmental Studies
+    institution: Lawrence University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
