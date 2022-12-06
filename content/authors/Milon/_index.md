@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Milon
+title: Milon Barmon
 
 # Username (this should match the folder name)
 authors:
@@ -30,7 +30,7 @@ education:
   - course: MS in Soil and Water Conservation and Desertification Control
     institution: Northwest A&F University, China
     year: 2021
-  - course: MEng in Artificial Intelligence
+  - course: MS in Soil Science
     institution: National University, Bangladesh
     year: 2019
   - course: BS in Soil Science, 
