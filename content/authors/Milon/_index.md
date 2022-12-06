@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
-# - soil carbon
-# - soil biochemistry
-
-
-# education:
-#   courses:
-#   - course: PhD in 
-#     institution: Emory University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+interests:
+- Soil carbon dynamics and greenhouse gas emission 
+- Agricultural resource management 
+- Climate-smart agriculture
+- Precision agriculture
+education:
+  courses:
+  - course: MS in Soil and Water Conservation and Desertification Control
+    institution: Northwest A&F University, China
+    year: 2021
+  - course: MEng in Artificial Intelligence
+    institution: National University, Bangladesh
+    year: 2019
+  - course: BS in Soil Science, 
+    institution: National University, Bangladesh
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:marissa.duckett@emory.edu'
+  link: 'mailto:milon.barmon@emory.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -56,9 +56,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/Duckett CV.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/Milon Barmon CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,3 +69,4 @@ user_groups:
 - Graduate Students
 ---
 
+Hello, I am a Ph. D. student in Population Biology, Ecology and Evolution (PBEE) Graduate Program at Laney Graduate School. My research interest lies in ecosystem ecology and biogeochemistry, especially related to ecological resource (soil, water, food, environment) management, climate-smart and sustainable agriculture practices. I am also interested in precision agriculture and looking forward to developing certain sensor-based agriculture practices that may ease the management of agriculture practices.
