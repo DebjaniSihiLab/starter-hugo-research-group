@@ -16,6 +16,9 @@ The SULI program is funded by the US Department of Energy's Office of Science an
 This is a tremendous opportunity for the young researcher and represents a significant accomplishment in their academic and scientific career. We wish them the best of luck in their work with Dr. Rod and look forward to hearing more about their research this summer.
 
 Link to COMPASS project: https://compass.pnnl.gov
+
 Links to SULI program: https://science.osti.gov/wdts/suli
+
 https://science.osti.gov/wdts/suli/Participant-Obligations
+
 Link to PNNL: https://www.pnnl.gov
