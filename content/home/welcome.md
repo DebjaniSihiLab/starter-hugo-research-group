@@ -20,7 +20,7 @@ design:
   columns: '1'
   
   background:
-    image: cover.jpg
+    image: Main Landing Page.jpg
     image_darken: 0.5
     image_parallax: true
     image_position: center
