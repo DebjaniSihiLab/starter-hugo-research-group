@@ -24,6 +24,18 @@ content:
     postcode: '30322'
     country: United States
     country_code: US
+  contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: Sihi_Lab
+          link: 'https://twitter.com/Sihi_Lab'
+        - icon: instagram
+          icon_pack: fab
+          name: https://twitter.com/Sihi_Lab
+          link: 'https://twitter.com/Sihi_Lab'
+
+
+   
     
   # coordinates:
   #   latitude: '37.4275'
