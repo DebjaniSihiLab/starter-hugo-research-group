@@ -31,8 +31,8 @@ content:
           link: 'https://twitter.com/Sihi_Lab'
         - icon: instagram
           icon_pack: fab
-          name: https://twitter.com/Sihi_Lab
-          link: 'https://twitter.com/Sihi_Lab'
+          name: sihi_lab
+          link: 'https://instagram.com/sihi_lab?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D'
 
 
    
