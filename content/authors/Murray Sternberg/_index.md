@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student (Honors Student)
+role: Undergraduate (Honors) Student 
 
 # Organizations/Affiliations
 organizations:
@@ -73,5 +73,5 @@ user_groups:
 
 ---
 
-Murray is a junior at Emory University, majoring in Environmental Sciences on the Earth and Atmospheric Science track and minoring in Physics. He’s excited to explore the field of biogeochemistry and get hands-on experience with soil science research. Murray is originally from New York City and enjoys tennis, winter weather, and trains.
+Murray is a senior at Emory University, majoring in Environmental Sciences on the Earth and Atmospheric Science track and minoring in Physics. He’s excited to explore the field of biogeochemistry and get hands-on experience with soil science research. Murray is originally from New York City and enjoys tennis, winter weather, and trains. 
 
