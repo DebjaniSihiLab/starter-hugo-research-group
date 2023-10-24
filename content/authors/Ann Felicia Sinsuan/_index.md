@@ -70,5 +70,5 @@ user_groups:
 
 ---
 
-Alex is a sophomore at Emory University, currently majoring with a B.S. in Chemistry.
+Ann Felicia Sinsuan is a recent graduate from EMory College (major: Chemistry).
 
