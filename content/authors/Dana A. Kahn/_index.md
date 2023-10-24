@@ -73,5 +73,5 @@ user_groups:
 
 ---
 
-Dana A. Kahn is ...
+Dana A. Kahn is a recent graduate from Emory College. She just started her Master degree in Environmental Sciences in Fall 2023. Her research is based on methane cycle in a northern Forest in Central Maine. 
 
