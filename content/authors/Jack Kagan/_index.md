@@ -69,4 +69,4 @@ user_groups:
 - Undergraduate Students
 
 ---
-Jack Kagan is a sophomore at Emory University majoring in Environmental Science on the Earth and Atmospheric Science B.S. Track. When he is not in Atlanta for college, Jack lives in Houston, Texas, which is where he is from. Outside of classes, Jack enjoys bouldering, listening to music, and playing basketball.
+Jack Kagan is a senior at Emory University majoring in Environmental Science on the Earth and Atmospheric Science B.S. Track. When he is not in Atlanta for college, Jack lives in Houston, Texas, which is where he is from. Outside of classes, Jack enjoys bouldering, listening to music, and playing basketball.
