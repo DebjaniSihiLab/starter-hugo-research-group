@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: SIRE Fellow (Undergraduate Student)
+role: Undergraduate Student (SIRE Fellow)
 
 # Organizations/Affiliations
 organizations:
