@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate intern (SURE Fellow)
+role: Undergraduate Student (SURE Fellow)
 
 # Organizations/Affiliations
 organizations:
