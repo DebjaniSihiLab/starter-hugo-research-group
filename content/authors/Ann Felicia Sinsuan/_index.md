@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Haoyang Li
+title: Ann Felicia Sinsuan
 
 # Username (this should match the folder name)
 authors:
-- Haoyang Li
+- Ann Felicia Sinsuan
 
 # Is this the primary user of the site?
 superuser: false
