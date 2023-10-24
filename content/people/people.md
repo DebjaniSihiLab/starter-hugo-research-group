@@ -24,7 +24,7 @@ content:
   - Lab Manager
   - Administration
   - Visitors
-  - past members
+  - Past Members
   - Alumni
 design:
   show_interests: false
