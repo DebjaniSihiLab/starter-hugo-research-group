@@ -21,6 +21,7 @@ content:
   - Graduate Students
   - Undergraduate Students
   - Lab Assistant
+  - Lab Manager
   - Administration
   - Visitors
   - Past Members
