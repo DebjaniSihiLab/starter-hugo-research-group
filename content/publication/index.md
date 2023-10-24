@@ -57,8 +57,10 @@ Peer-reviewed publications
 
 ​​White Paper
 
-1. Sihi, D., Basu, K., and Singh, K. Improved Understanding of Coupled Water and Carbon Cycle Processes through Machine Learning Approaches. Artificial Intelligence for Earth System Predictability, Earth and Environmental System Science Division, Office of Biological and Environmental Research, Department of Energy. DOI: 10.2172/1769721
+1. Sihi, D. Improving predictability of methane emissions from terrestrial ecosystems and terrestrial-aquatic interfaces through machine learning approaches. AI4CH4 workshop, Earth and Environmental System Science Division, Office of Biological and Environmental Research, Department of Energy. AI4CH420 (available at https://www.ai4esp.org/related/)
+2.	Sihi, D., Basu, K., and Singh, K. Improved Understanding of Coupled Water and Carbon Cycle Processes through Machine Learning Approaches. Artificial Intelligence for Earth System Predictability, Earth and Environmental System Science Division, Office of Biological and Environmental Research, Department of Energy. DOI: 10.2172/1769721
 
-
+Academy Report
+1.	Casadevall, A., Burnha, C-A, Cassell, G. H., Enquist, L., Estes, M., Golden, S., Lennon, J., Monack, D., Murray, B. E., Weiss, S., Weissfeld, A. D., Williams, H. N., Tiedje, J. M., Bruns, M. A., Casadevall, A., Davidson, E., Silver, P., Colwell, R. R., Criddle, C., Donohue, T., Eloe-Fadrosh, E., Falkowski, P., Hellweger, F., Hoehler, T. M., Jansson, J. K., Jones, A., Jiang, S., Karl, D., King, G. M., Lipp, E. K., Lynch, M., Martiny, J. B. H., Machlis, G. E., McFall-Ngai, M., McGovern, V., Rich, V., Sihi, D. , Spear, J. R., Verstraete, W., Jutla, A., and Zhou, J. (Colloquium participants are listed alphabetically) Microbes and Climate Change – Science, People & Impacts. https://asm.org/Reports/Microbes-Climate-Change-Science,-People,-Impacts, American Academy of Microbiology, American Society of Microbiology, 2022.
 
 
