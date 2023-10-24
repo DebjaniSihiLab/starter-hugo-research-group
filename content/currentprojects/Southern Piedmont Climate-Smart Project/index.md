@@ -49,18 +49,7 @@ Brief description of the project:
 
 We are partnering with the Rodale Institute on a $25M project from the USDA's Partnerships for Climate Smart Commodities program. The project title is "Quantifying the Potential to Reduce Greenhouse Gas Emissions and Increase Carbon Sequestration by Growing and Marketing Climate-Smart Commodities in the Southern Piedmont”. Here is the project website: https://rodaleinstitute.org/science/southern-piedmont-climate-smart-project/
 
-Read this Emory story for more information: [Emory breaking new ground for climate-smart agriculture in Southeast] (https://news.emory.edu/stories/2023/10/esc_climate_smart_agriculture_03-10-2023/story.html) -->
-
-
-We are currently recruiting vegetable growers who are interested in adopting cover crops under both organic and conventional practices in the Southern Piedmont Area. 
-
-Here is the call for applications: https://rodaleinstitute.org/blog/southern-piedmont-climate-smart-program-applications-open/
-
-You can also access application forms for farmers and farmers markets using the links below: 
-
-Climate-Smart Farmer Participation Application: https://www.surveymonkey.com/r/climate-smart-farmer-application
-
-Climate-Smart Farmers Market Participation Application: https://www.surveymonkey.com/r/climate-smart-farmer-market-application
+Read this story: Emory breaking new ground for climate-smart agriculture in Southeast (https://news.emory.edu/stories/2023/10/esc_climate_smart_agriculture_03-10-2023/story.html)
 
 
 
