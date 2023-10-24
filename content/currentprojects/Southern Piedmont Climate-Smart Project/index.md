@@ -59,6 +59,8 @@ Climate-Smart Farmer Participation Application: https://www.surveymonkey.com/r/c
 
 Climate-Smart Farmers Market Participation Application: https://www.surveymonkey.com/r/climate-smart-farmer-market-application
 
+Read this Emory story for more information: [Emory breaking new ground for climate-smart agriculture in Southeast] (https://news.emory.edu/stories/2023/10/esc_climate_smart_agriculture_03-10-2023/story.html) -->
+
 
 
 
