@@ -51,6 +51,8 @@ We are partnering with the Rodale Institute on a $25M project from the USDA's Pa
 
 Read this story: Emory breaking new ground for climate-smart agriculture in Southeast (https://news.emory.edu/stories/2023/10/esc_climate_smart_agriculture_03-10-2023/story.html)
 
+For more information, see Rodale website: https://rodaleinstitute.org/science/southern-piedmont-climate-smart-project/
+
 
 
 
