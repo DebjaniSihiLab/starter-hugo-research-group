@@ -23,7 +23,7 @@ content:
   - Lab Assistant
   - Administration
   - Visitors
-  - past members
+  - Past Members
   - Alumni
 design:
   show_interests: false
