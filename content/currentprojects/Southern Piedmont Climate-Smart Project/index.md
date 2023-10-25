@@ -47,7 +47,7 @@ Collaborator: [Jitendra Kumar, Oak Ridge National Laboratory](https://www.ornl.g
 
 Brief description of the project: 
 
-We are partnering with the Rodale Institute on a $25M project from the USDA's Partnerships for Climate Smart Commodities program. The project title is "Quantifying the Potential to Reduce Greenhouse Gas Emissions and Increase Carbon Sequestration by Growing and Marketing Climate-Smart Commodities in the Southern Piedmont”. Here is the project website: https://rodaleinstitute.org/science/southern-piedmont-climate-smart-project/
+We are partnering with the Rodale Institute on a $25M project from the USDA's Partnerships for Climate Smart Commodities program. The project title is "Quantifying the Potential to Reduce Greenhouse Gas Emissions and Increase Carbon Sequestration by Growing and Marketing Climate-Smart Commodities in the Southern Piedmont”. 
 
 Read this story: Emory breaking new ground for climate-smart agriculture in Southeast (https://news.emory.edu/stories/2023/10/esc_climate_smart_agriculture_03-10-2023/story.html)
 
