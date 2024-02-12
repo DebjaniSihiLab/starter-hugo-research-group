@@ -16,6 +16,8 @@ header:
 
 ## Courses taught (virtual and in-person)
 
+#### Seminar on Environmenal Issues (ENVS 390) 
+
 #### Fund. Concepts in Soil Sci (ENVS 245) 
 {{% staticref "uploads/Syllabus for Fund. Concepts in Soil Sci - Spring 2021.pdf" "newtab" %}}Download Syllabus for Fund. Concepts in Soil Sci - Spring 2021{{% /staticref %}}
 
