@@ -1,29 +1,26 @@
 ---
 # Display name
-title: Greta Franke 
+title: Greta Franke
 
 # Username (this should match the folder name)
 authors:
-#- Rebekah Lee
 - Greta Franke
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: Undergraduate Student (FYRE Fellow)
-role: Undergraduate Student 
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: Emory University
   url: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students 
- - Undergraduate Student 
+- past members
+- 
 ---
 
-# Rebekah Lee is a current ...
