@@ -1,7 +1,6 @@
 ---
 # Display name
- title: Greta Franke 
- #title: Rebekah Lee 
+title: Greta Franke 
 
 # Username (this should match the folder name)
 authors:
