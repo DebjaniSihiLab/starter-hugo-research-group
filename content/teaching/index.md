@@ -44,13 +44,13 @@ header:
 
 **Individual Research in Environmental Sciences (ENVS 494)**
 
-**Intro to Independent Research (ENVS 399R)**
+**Undergraduate Research (CHEM 499R)**
 
-**Fundamentals of ENVS Research (ENVS 299R)**
+**Intro to Independent Research (ENVS 399R)**
 
 **Introduction to Research (CHEM 399R)**
 
-**Undergraduate Research (CHEM 499R)**
+**Fundamentals of ENVS Research (ENVS 299R)**
 
 ## Served as an instructor for a Summer School:
 
