@@ -29,21 +29,29 @@ header:
 
 {{% staticref "uploads/Course Evaluation-Biogeochemistry and Env. Health-Sihi.pdf" "newtab" %}}Course Evaluation-Biogeochemistry and Env. Health-Sihi{{% /staticref %}}
 
-#### Seminar on Environmental Issues (ENVS 390) 
-
 
 ## Mentored undergraduate and graduate students for research credits:
 
-**Intro to Independent Research (ENVS 399R)**
+**Advanced Graduate Research (IBS 699R)**
+
+**Laboratory Rotations (PBEE 597R)**
+
+**Master's Thesis Research (ENVS 599R)**
+
+**Honors Research (ENVS 495BW)**
+
+**Individual Directed Reading (ENVS 498R)**
 
 **Individual Research in Environmental Sciences (ENVS 494)**
+
+**Intro to Independent Research (ENVS 399R)**
+
+**Fundamentals of ENVS Research (ENVS 299R)**
 
 **Introduction to Research (CHEM 399R)**
 
 **Undergraduate Research (CHEM 499R)**
 
-**Laboratory Rotations (PBEE 597R)**
-
-## Served as an Instructor for a Summer School:
+## Served as an instructor for a Summer School:
 
 **Flux Course (http://www.fluxcourse.org/instructors.html)**
