@@ -16,7 +16,8 @@ header:
 
 Peer-reviewed publications
 
-1. Jie Hu,  Alfred E. Hartemink,  Ankur R. Desai,  Philip A. Townsend,  Rose Z. Abramoff,  Zhe Zhu,  Debjani Sihi,  Jingyi Huang (2023). A Continental-scale estimate of soil organic carbon change at NEON sites and their environmental and edaphic controls. Journal of Geophysical Research: Biogeosciences, 128, e2022JG006981. https://doi-org.proxy.library.emory.edu/10.1029/2022JG006981
+1. Wang, Z., Kumar, J., Weintraub‐Leff, S. R., Todd‐Brown, K., Mishra, U., & Sihi, D. (2024). Upscaling soil organic carbon measurements at the continental scale using multivariate clustering analysis and machine learning. Journal of Geophysical Research: Biogeosciences, 129(2), e2023JG007702. https://doi.org/10.1029/2023JG007702
+2. Jie Hu,  Alfred E. Hartemink,  Ankur R. Desai,  Philip A. Townsend,  Rose Z. Abramoff,  Zhe Zhu,  Debjani Sihi,  Jingyi Huang (2023). A Continental-scale estimate of soil organic carbon change at NEON sites and their environmental and edaphic controls. Journal of Geophysical Research: Biogeosciences, 128, e2022JG006981. https://doi-org.proxy.library.emory.edu/10.1029/2022JG006981
 1. Samantha R. Weintraub-Leff,  Steven J. Hall,  Matthew E. Craig,  Debjani Sihi,  Zhuonan Wang,  Stephen C. Hart (2023). Standardized data to improve understanding and modeling of soil nitrogen at continental scale. Earth's Future, 11, e2022EF003224. https://doi-org.proxy.library.emory.edu/10.1029/2022EF003224
 2. Lacroix, E. M., Aeppli, M., Boye, K., Brodie, E., Fendorf, S., Keiluweit, M., ... & Sihi, D. (2023). Consider the Anoxic Microsite: Acknowledging and Appreciating Spatiotemporal Redox Heterogeneity in Soils and Sediments. ACS Earth and Space Chemistry, 7(9), 1592-1609. https://pubs.acs.org/doi/full/10.1021/acsearthspacechem.3c00032
 3. Balázs Péter Grosz, Amanda Matson, Klaus Butterbach-Bah, … Sihi et al. Modeling denitrification: can we report what we don’t know? AGU Advance, 2023. DOI: 10.1029/2023AV000990 
