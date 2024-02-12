@@ -44,6 +44,6 @@ header:
 
 **Laboratory Rotations (PBEE 597R)**
 
-## Instructor for Summer School:
+## Served as an Instructor for a Summer School:
 
 **Flux Course (http://www.fluxcourse.org/instructors.html)**
