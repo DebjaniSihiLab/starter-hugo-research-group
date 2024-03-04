@@ -1,9 +1,9 @@
 ---
-title: Emory College of Arts and Sciences’s Program to Enhance Research and Scholarship selected our lab to train undergraduate students
-date: 2022-02-12
+title: Congratulations Milon Barmon for winning 2nd prize in poster competition at 2023 ASA-CSSA-SSSA annual meeting 
+date: 2023-11-30
 profile: false  # Show author profile
 image:
   focal_point: "top"
 ---
 
-Emory College of Arts and Sciences’s Program to Enhance Research and Scholarship selected our lab to train undergraduate students on managing soil health in an organi food production system under changing climate (LINK TO PROJECT PAGE). 
+Congratulations Milon Barmon for winning 2nd prize in poster competition at 2023 ASA-CSSA-SSSA annual meeting in St. Louis. Milon also received awards in video competition as the "Best in Show" and "Agronomy Best Video".
