@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Murray Sternberg for winning 1st prize in poster competition 
+title: Congratulations to Murray Sternberg for winning 1st prize in poster competition at Southern ASA regional branch meeting
 date: 2024-03-03
 profile: false  # Show author profile
 image:
