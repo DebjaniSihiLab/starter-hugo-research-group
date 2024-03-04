@@ -8,3 +8,5 @@ image:
 Congratulations Murray for winning 1st prize in poster competition at 2024 Southern ASA regional branch meeting. See here for more information: https://www.agronomy.org/membership/branches/southern/
 
   {{< figure src="GFxVqieXwAAuXv1.jpg" >}}  
+ {{< figure src="Murray-Jack.jpg" >}}  
+  
