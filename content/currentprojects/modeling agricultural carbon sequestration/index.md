@@ -45,7 +45,7 @@ Funding source: Valent Biosciences/Valent U.S.A. (Carbon sequestration in agricu
 
 PI: [Debjani Sihi]( {{< relref "/authors/admin" >}} )
 
-Total Funding: $220,000 for 2 years.
+Total Funding: $340,000 for 3 years.
 
 
 Brief description of the project:\
