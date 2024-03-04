@@ -1,5 +1,5 @@
 ---
-title: Congratulations Milon Barmon for winning 2nd prize in poster competition at 2023 ASA-CSSA-SSSA annual meeting 
+title: Congratulations to Milon Barmon for winning 2nd prize in poster competition at 2023 ASA-CSSA-SSSA annual meeting 
 date: 2023-11-30
 profile: false  # Show author profile
 image:
