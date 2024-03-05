@@ -6,7 +6,7 @@ image:
   focal_point: "top"
 ---
 
-The Lester Committee approves Danai's request for research-support in the amount of $2,000.00.  
+The Lester Committee approves Dana Kahn's request for research-support ($2,000). She will join the Howland team crew for the 2023 Field campaign. See here to learn more about Dana's project: https://www.debjanisihi.com/currentprojects/understanding-biophysical-drivers-of-the-ch4-source-sink-transition-in-northern-forests/  
  
 
  
