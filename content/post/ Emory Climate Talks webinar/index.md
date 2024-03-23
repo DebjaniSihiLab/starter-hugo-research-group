@@ -1,9 +1,9 @@
 ---
-title: Debjani Sihi was invited to an Emory Climate Talks webinar on Exploring Soil-Climate-Health-Policy Nexus through Sustainability Lens
-date: 2022-02-12
+title: Murray successfully defended his honors thesis
+date: 2024-03-21
 profile: false  # Show author profile
 image:
   focal_point: "top"
 ---
 
-Debjani Sihi was invited to an Emory Climate Talks webinar on Exploring Soil-Climate-Health-Policy Nexus through Sustainability Lens. Listen to the webinar here (https://www.youtube.com/watch?v=KheUuYN174U). 
+Congratulations to Murray Sternberg for successfully defending his thesis with highest honors! 
