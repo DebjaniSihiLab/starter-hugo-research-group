@@ -7,3 +7,5 @@ image:
 ---
 
 Congratulations to Murray Sternberg for successfully defending his thesis with highest honors! 
+
+{{< figure src="Main Landing Page.jpg" >}}
