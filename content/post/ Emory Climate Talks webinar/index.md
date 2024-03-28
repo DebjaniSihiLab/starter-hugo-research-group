@@ -6,6 +6,6 @@ image:
   focal_point: "top"
 ---
 
-Congratulations to Murray Sternberg for successfully defending his thesis with highest honors! Proud of you, Murray! 
+Congratulations to Murray Sternberg for successfully defending his thesis with highest honors! You did an excellent job! Proud of you, Murray! 
 
 {{< figure src="IMG_0784.jpg" >}}
