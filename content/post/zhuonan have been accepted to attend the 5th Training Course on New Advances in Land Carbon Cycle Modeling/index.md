@@ -1,4 +1,4 @@
-
+---
 title: 'Congratulations Yaxi for successfully defending your master's thesis'
 date: 2024-03-27
 profile: false  # Show author profile
