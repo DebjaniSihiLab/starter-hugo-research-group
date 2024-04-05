@@ -1,11 +1,10 @@
 ---
-title: Debjani Sihi was invited to represent the class of 2021-2022 EGHI (Emory Global Health Institute) Faculty Fellows
-date: 2022-02-12
+title: Dan Kahn was recognized with Honorable Mention in the 2024 NSF GRFP competition
+date: 2024-04-04
 profile: false  # Show author profile
 image:
   focal_point: "top"
 ---
 
-Debjani Sihi was invited to represent the class of 2021-2022 EGHI (Emory Global Health Institute) Faculty Fellows (https://globalhealth.emory.edu/faculty/fellows.html)
-
+Congratulations to Dana Kah for your recognition with an Honorable Mention in the 2024 NSF GRFP competition. It is a significant achievement for a graduate student in the STEM field. We are proud of you, Dana!
 
