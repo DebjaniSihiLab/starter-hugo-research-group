@@ -1,6 +1,6 @@
 ---
 title: A new estimate of U.S. soil organic carbon to improve Earth system models 
-date: 2024-04-6
+date: 2024-04-05
 profile: false  # Show author profile
 image:
   focal_point: "top"
