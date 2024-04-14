@@ -8,7 +8,7 @@ image:
 
 Yaxi received 1st prize for her talk at the 2024 Southeastern Biogeochemistry Symposium! Congratualtions, Yaxi! 
 
-Murray did another excellent talk, and Dana presented a great poster too! 
+Murray gave another excellent talk, and Dana presented a great poster too! 
 
 Well done, team! Very proud!
 
