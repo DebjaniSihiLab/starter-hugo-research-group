@@ -12,12 +12,13 @@ Murray gave another excellent talk, and Dana presented a great poster too!
 
 Well done, team! Very proud!
 
-{{< figure src="IMG_0984.jpg" >}}
-{{< figure src="IMG_0994.jpg" >}}
-{{< figure src="IMG_1008.jpg" >}}
-{{< figure src="IMG_1025.jpg" >}}
-{{< figure src="IMG_1031.jpg" >}}
 {{< figure src="IMG_1034.jpg" >}}
 {{< figure src="IMG_1036.jpg" >}}
+{{< figure src="IMG_1031.jpg" >}}
 {{< figure src="IMG_1037.jpg" >}}
+{{< figure src="IMG_0984.jpg" >}}
+{{< figure src="IMG_1008.jpg" >}}
+{{< figure src="IMG_1025.jpg" >}}
+{{< figure src="IMG_0994.jpg" >}}
+
 
