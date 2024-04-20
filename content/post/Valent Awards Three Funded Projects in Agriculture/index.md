@@ -2,7 +2,7 @@
 title: Valent U.S.A. and Valent Biosciences selected Debjani Sihi to quantify soil carbon in agricultural landscapes
 
 
-date: 2024-02-01
+date: 2022-06-01
 profile: false  # Show author profile
 image:
   focal_point: "top"
