@@ -1,5 +1,5 @@
 ---
-title: 'Dana is awarded research-support'
+title: 'Dana is awarded with research-support from Department of Environmental Scienes, Emory'
 date: 2024-04-15
 profile: false  # Show author profile
 image:
