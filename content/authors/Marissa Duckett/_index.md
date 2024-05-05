@@ -44,7 +44,7 @@ bio:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- past members
+- Alumni
 ---
 
 I am currently (Spring 2022) a 2nd year PhD student in Laney Graduate School’s program in Population Biology, Ecology, and Evolution. I graduated with a BS in Microbiology with Honors from the University of Kansas in Spring 2020. Although my undergraduate education is in infectious disease microbiology, my Honors thesis focused un characterizing microbial communities in stromatolites. I intend to do similar work in Terrestrial Aquatic Interfaces, using microbial community characterization to inform greenhouse gas emission predictions. -->
