@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- past members
 ---
 
 Hello, I am a Ph. D. student in Population Biology, Ecology and Evolution (PBEE) Graduate Program at Laney Graduate School. My research interest lies in ecosystem ecology and biogeochemistry, especially related to ecological resource (soil, water, food, environment) management, climate-smart and sustainable agriculture practices. I am also interested in precision agriculture and looking forward to developing certain sensor-based agriculture practices that may ease the management of agriculture practices.
