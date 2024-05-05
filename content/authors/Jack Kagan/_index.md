@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jack.kagan@emory.edu'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jack-kagan-a7a116201/
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
