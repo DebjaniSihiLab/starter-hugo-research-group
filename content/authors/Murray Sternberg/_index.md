@@ -45,15 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:murray.sternberg@emory.edu'
-#- icon: twitter
-#  icon_pack: fab
-#  link: www.linkedin.com/in/murray-sternberg
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/murray-sternberg
