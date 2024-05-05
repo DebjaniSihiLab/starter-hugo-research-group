@@ -53,6 +53,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/sternberg_murray_cv_091122.pdf
+- icon: arrow-up-right-from-square
+  icon_pack: fas
+  link: https://rpubs.com/murrayst
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
