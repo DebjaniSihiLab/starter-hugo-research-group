@@ -24,9 +24,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dana-kahn/
-#- icon: cv 
-#  icon_pack: ai
-#  link: files/CV-Sihi.pdf
+- icon: cv 
+  icon_pack: ai
+  link: Dana Kahn CV April23.pdf
 - icon: arrow-up-right-from-square
   icon_pack: fas
   link: https://danakahn.wordpress.com/about/
