@@ -27,7 +27,9 @@ social:
 #- icon: cv 
 #  icon_pack: ai
 #  link: files/CV-Sihi.pdf
-
+- icon: arrow-up-right-from-square
+  icon_pack: fas
+  link: https://danakahn.wordpress.com/about/
   
 
 # Organizations/Affiliations
