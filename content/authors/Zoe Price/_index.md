@@ -43,8 +43,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- past members
-# - Visitors
+- Alumni
+
 ---
 
 Zoe Price is a current senior at Emory majoring in Environmental Science. In addition to working in the Sihi Lab, Zoe is a teaching assistant for the Ecosystem Ecology Lab and works as an intern with Emory's Office of Sustainability Initiatives where she helps with the Green Labs program.
