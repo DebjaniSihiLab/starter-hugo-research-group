@@ -5,7 +5,7 @@ profile: false  # Show author profile
 image:
   focal_point: "top"
 ---
-We had a great semester: graduations, awards & recognition from national, regional, and University levels, internships with external agencies, & more. So, we celebrated with students, colleagues, friends & families. 
+We had a great semester: graduations, awards and recognition from national, regional, and University levels, internships with external agencies and more. So, we celebrated with students, colleagues, friends and families. 
 
 Event management credit went to the partner in crime: Biswanath Dari 🙂
 
