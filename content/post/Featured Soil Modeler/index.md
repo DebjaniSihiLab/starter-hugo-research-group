@@ -9,7 +9,7 @@ We had a great semester: graduations, awards & recognition from national, region
 
 Event management credit went to the partner in crime: Biswanath Dari 🙂
 
-{{< figure src="IMG_1225.jpg.jpg" >}}
-{{< figure src="IMG_1231.jpg.jpg" >}}
-{{< figure src="IMG_1235.jpg.jpg" >}}
-{{< figure src="IMG_6185.jpg.jpg" >}}
+{{< figure src="IMG_1225.jpg" >}}
+{{< figure src="IMG_1231.jpg" >}}
+{{< figure src="IMG_1235.jpg" >}}
+{{< figure src="IMG_6185.jpg" >}}
