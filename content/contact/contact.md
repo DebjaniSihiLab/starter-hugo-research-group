@@ -15,13 +15,12 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: debjani.sihi@emory.edu
-  phone: 404-727-4252
+  email: dsihi@ncsu.edu
   address:
-    street: E528 Math and Science Center, 5th floor
-    city: Atlanta
-    region: GA
-    postcode: '30322'
+    street: 4168A, Plant Sciences Building, 40 Oval Dr Campus Box 7825 
+    city: Raleigh
+    region: NC
+    postcode: '27606'
     country: United States
     country_code: US
   contact_links:
