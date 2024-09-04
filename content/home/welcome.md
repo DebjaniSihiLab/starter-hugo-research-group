@@ -30,9 +30,9 @@ design:
     padding: ["20px", "80px", "20px", "80px"]
 ---
 
-**Sihi Biogeochemistry Lab**  specializes in measuring and modeling Soil Organic Matter (or Carbon) dynamics and Greenhouse Gas Emissions from natural and managed ecosystems. We enjoy coupling data generated from empirical studies and environmental networks with process-based (aka mechanistic) and machine learning models. We use biogeochemical models to evaluate the fate of soil (and ecosystem) carbon (and nutrient) in the face of climate change in systems ranging from the tropics and subtropics to temperate and temperate-boreal transition zones and soils from forests, wetlands, grasslands, and agricultural landscapes. 
+**Sihi Biogeochemistry Lab**  moved to NC State University. We are currently recruiting postdocs, students, and other researchers. If you are interested in joining our group, please email the PI (Debjani Sihi) at dsihi@ncsu.edu. 
 
-We are funded by NSF, DOE, USDA, Valent Biosciences, Soil2Space, Emory College of Arts and Sciences, University Research Council, and Halle Institute for Global Research at Emory University.
+We specialize in measuring and modeling Soil Organic Matter (or Carbon) dynamics and Greenhouse Gas Emissions from natural and managed ecosystems. We enjoy coupling data generated from empirical studies and environmental networks with process-based (aka mechanistic) and machine learning models. We use biogeochemical models to evaluate the fate of soil (and ecosystem) carbon (and nutrient) in the face of climate change in systems ranging from the tropics and subtropics to temperate and temperate-boreal transition zones and soils from forests, wetlands, grasslands, and agricultural landscapes. We are funded by NSF, DOE, USDA, and Valent Biosciences.
 
-If you are interested in joining our group, please email the PI (Debjani Sihi) at debjani.sihi@emory.edu. 
+
 
