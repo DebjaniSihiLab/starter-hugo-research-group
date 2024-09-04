@@ -18,7 +18,8 @@ content:
   email: dsihi@ncsu.edu
   office: 919-513-2465
   address:
-    street: 4168A/3105, Plant Sciences Building, 40 Oval Dr Campus Box 7825 
+    office/lab: 4168A/3105
+    street: Plant Sciences Building, 40 Oval Dr Campus Box 7825 
     city: Raleigh
     region: NC
     postcode: '27606'
