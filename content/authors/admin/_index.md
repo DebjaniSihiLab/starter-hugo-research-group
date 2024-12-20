@@ -55,7 +55,7 @@ social:
   link: files/CV-Sihi.pdf
 - icon: arrow-up-right-from-square
   icon_pack: fas
-  link: (https://cals.ncsu.edu/plant-and-microbial-biology/people/debjani-sihi/ )
+  link: https://cals.ncsu.edu/plant-and-microbial-biology/people/debjani-sihi/ 
 
 # - icon: fax
 #   icon_pack: fas
