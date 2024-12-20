@@ -55,7 +55,7 @@ social:
   link: files/CV-Sihi.pdf
 - icon: arrow-up-right-from-square
   icon_pack: fas
-  link: https://envs.emory.edu/people/bios/Sihi-Debjani.html
+  link: (https://cals.ncsu.edu/plant-and-microbial-biology/people/debjani-sihi/ )
 
 # - icon: fax
 #   icon_pack: fas
@@ -92,4 +92,6 @@ Addressing cutting-edge research questions on pressing environmental issues like
 Phone
 O: 919-513-2465 | C: 352-222-5655
 
-Profile: (https://cals.ncsu.edu/plant-and-microbial-biology/people/debjani-sihi/ https://cals.ncsu.edu/crop-and-soil-sciences/people/dsihi/ https://cals.ncsu.edu/psi/people/debjani-sihi/)
+NC State, Department of Plant and Microbial Biology: https://cals.ncsu.edu/plant-and-microbial-biology/people/debjani-sihi/ 
+NC State, Department of Crop and Soil Sciences: https://cals.ncsu.edu/crop-and-soil-sciences/people/dsihi/ 
+NC Plant Sciences Initiaitve: https://cals.ncsu.edu/psi/people/debjani-sihi/
