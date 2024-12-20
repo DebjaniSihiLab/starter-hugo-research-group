@@ -90,6 +90,6 @@ I received the prestigious Gene E. Likens Award from the Biogeosciences section 
 Addressing cutting-edge research questions on pressing environmental issues like climate change and sustainability using multi-scale and multi-disciplinary approaches always keeps me going. At Emory, I aspire to address a wide range of environmental problems at soil-climate-health-policy nexus under the umbrella of sustainability. If you are interested in joining my research group, contact me at debjani.sihi@emory.edu.  
 
 Phone
-O: 404-727-4252 | C: 352-222-5655
+O: 919-513-2465 | C: 352-222-5655
 
-Profile: http://envs.emory.edu/home/people/bios/Sihi-Debjani.html
+Profile: [http://envs.emory.edu/home/people/bios/Sihi-Debjani.html](https://cals.ncsu.edu/plant-and-microbial-biology/people/debjani-sihi/ https://cals.ncsu.edu/crop-and-soil-sciences/people/dsihi/ https://cals.ncsu.edu/psi/people/debjani-sihi/)
