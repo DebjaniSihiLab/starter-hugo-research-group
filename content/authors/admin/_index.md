@@ -10,7 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Emory University
+- name: NC State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
