@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:debjani.sihi@emory.edu'
+  link: 'mailto:dsihi@ncsu.edu'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/debjani-sihi-29a00418/
