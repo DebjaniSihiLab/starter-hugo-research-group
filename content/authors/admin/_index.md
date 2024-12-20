@@ -87,9 +87,9 @@ I am an environmental biogeochemist with a broad research interest in soil organ
 
 I received the prestigious Gene E. Likens Award from the Biogeosciences section of the Ecological Society of America in 2018 and Best Student Authored Paper Award from Soil Ecology Society in 2019 for my research products. My research has also been highlighted in Nature Climate Change and the special issue for the 25th anniversary of Global Change Biology. You can also find research-based stories of my work at Science Trends and Research Matters.    
 
-Addressing cutting-edge research questions on pressing environmental issues like climate change and sustainability using multi-scale and multi-disciplinary approaches always keeps me going. At Emory, I aspire to address a wide range of environmental problems at soil-climate-health-policy nexus under the umbrella of sustainability. If you are interested in joining my research group, contact me at debjani.sihi@emory.edu.  
+Addressing cutting-edge research questions on pressing environmental issues like climate change and sustainability using multi-scale and multi-disciplinary approaches always keeps me going. At NC State, I aspire to address a wide range of environmental problems at the soil-microbe-plant-atmosphere continuum. If you are interested in joining my research group, contact me at dsihi@ncsu.edu.  
 
 Phone
 O: 919-513-2465 | C: 352-222-5655
 
-Profile: [http://envs.emory.edu/home/people/bios/Sihi-Debjani.html](https://cals.ncsu.edu/plant-and-microbial-biology/people/debjani-sihi/ https://cals.ncsu.edu/crop-and-soil-sciences/people/dsihi/ https://cals.ncsu.edu/psi/people/debjani-sihi/)
+Profile: (https://cals.ncsu.edu/plant-and-microbial-biology/people/debjani-sihi/ https://cals.ncsu.edu/crop-and-soil-sciences/people/dsihi/ https://cals.ncsu.edu/psi/people/debjani-sihi/)
