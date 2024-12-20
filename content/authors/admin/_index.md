@@ -70,7 +70,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "debjani.sihi@emory.edu"
+email: "dsihi@ncsu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
