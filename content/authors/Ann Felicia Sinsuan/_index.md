@@ -61,4 +61,5 @@ user_groups:
 - Graduate Students  
 
 ---
+
 Hi, I am a PhD student (Soil Science) in the Department of Crop and Soil Sciences at North Carolina State University. I have completed my Bachelor’s in Agriculture (major in Soil Science) and Master’s with specialization in Agricultural Chemistry and Soil Science from Bidhan Chandra Krishi Viswavidyalaya(BCKV) in India. During my Master’s, I conducted research on finding soil phosphorus storage capacity, which is used as a key indicator to monitor environmental risk for phosphorus pollution. The broad picture of my research was to address phosphorus-related problems causing environmental pollution and better management of soil phosphorus. My current research interests encompass ecosystem management, agroecology, microbial ecology, soil biogeochemistry, carbon sequestration, organic matter dynamics, soil-microbe interaction, nutrient modeling, greenhouse gas dynamics, and soil health management. Outside of the lab, I enjoy traveling, cooking, gardening, listening to music, playing violin, and playing cricket.
