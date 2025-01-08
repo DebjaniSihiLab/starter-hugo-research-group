@@ -5,7 +5,7 @@ title: Praneswar Ghosh (PG)
 
 # Username (this should match the folder name)
 authors:
-- Praneswar Ghosh (PG), PhD GURU
+- Praneswar Ghosh (PG)
 
 # Is this the primary user of the site?
 superuser: false
