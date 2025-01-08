@@ -14,7 +14,7 @@ role: Undergraduate Student (SIRE Fellow)
 
 # Organizations/Affiliations
 organizations:
-- name: Emory University
+- name: Emory University.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
