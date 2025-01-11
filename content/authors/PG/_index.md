@@ -68,4 +68,4 @@ user_groups:
 
 ---
 
-Hi, I am Praneswar Ghosh, a PhD Student in Soil Science Program at NC State University
+Hi, I am Praneswar Ghosh, a PhD Student in Soil Science Program at NC State University.
