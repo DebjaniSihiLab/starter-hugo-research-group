@@ -21,21 +21,22 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-# - Terrestrial ecosystem model
-# - Carbon cycle
-# - Soil organic carbon
+ - Carbon Sequestration
+ - Soil Biogeochemistry
+ - Soil organic matter/carbon dynamics
+ - Greenhouse gas emissions
 
 education:
   courses:
   # - course: PhD in Earth System Science
   #   institution: Auburn University
   #   year: 2021
-  # - course: MS in Natural Resource Management
-  #   institution: Auburn University
-  #   year: 2019
-  - course: MS 
+  - course: MS in Agricultural Chemistry and Soil Science
     institution: Bidhan Chandra Krishi Viswavidyalaya, India
     year: 2023
+  - course: BS in Agriculture
+    institution: Bidhan Chandra Krishi Viswavidyalaya, India
+    year: 2021
 
 
 # Social/Academic Networking
@@ -48,7 +49,7 @@ social:
   link: 'mailto:pghosh5@ncsu.edu'
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/praneswar-ghosh
+  link: https://www.linkedin.com/in/praneswar-ghosh/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
@@ -68,4 +69,4 @@ user_groups:
 
 ---
 
-Hi, I am Praneswar Ghosh, a PhD Student in Soil Science Program at NC State University.
+Hello everyone! I am a PhD student in the Soil Science program at North Carolina State University. I have completed my Bachelor’s in Agriculture (major in Soil Science) and Master’s with specialization in Agricultural Chemistry and Soil Science from Bidhan Chandra Krishi Viswavidyalaya (BCKV) in India. During my Master’s, I conducted research on finding soil phosphorus storage capacity, which is used as a key indicator to monitor environmental risk for phosphorus pollution. The broad picture of my research was to address phosphorus-related problems causing environmental pollution and better management of soil phosphorus. My current research interests encompass soil biogeochemistry, carbon sequestration, organic matter dynamics, soil-plant-microbe interaction, greenhouse gas dynamics, and soil health management. Outside of the lab, I enjoy traveling, cooking, and gardening.
