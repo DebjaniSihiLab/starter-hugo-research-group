@@ -22,7 +22,7 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Diversity
+  - name: SBS 2025
     url: diversity
     weight: 55
   - name: Contact
