@@ -25,3 +25,7 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: SBS 2025
+    url: sbs
+    weight: 55
+    
