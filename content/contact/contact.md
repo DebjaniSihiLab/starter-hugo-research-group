@@ -67,4 +67,4 @@ design:
 ---
 
 
-If you are interested in joining my research group, contact me at debjani.sihi@emory.edu.
+If you are interested in joining my research group, contact me at dsihi@ncsu.edu.
