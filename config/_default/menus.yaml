@@ -26,5 +26,5 @@ main:
     url: contact
     weight: 60
   - name: SBS 2025
-    url: SBS 2025
+    url: sbs
     weight: 55
