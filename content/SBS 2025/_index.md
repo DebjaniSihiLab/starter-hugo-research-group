@@ -18,7 +18,7 @@ header:
 ---
 
  
-We are pleased to announce the 12th Annual Southeastern Biogeochemistry Symposium will take place in-person on April 18th – April 20th, 2025 at North Carolina State University, Raleigh, North Carolina. 
+We are pleased to announce the 12th Annual Southeastern Biogeochemistry Symposium will take place in person on April 18th – April 20th, 2025 at North Carolina State University, Raleigh, North Carolina. 
 
 **Location** : Plant Sciences Building, North Carolina State University, Raleigh, North Carolina. https://cals.ncsu.edu/psi/psb/
 
