@@ -28,4 +28,6 @@ The Southeastern Biogeochemistry Symposium is a unique opportunity for undergrad
 
 ***Registration and Abstract Submission will open soon...***
 
+Here is the website from SBS 2024 for more information:  https://sites.gsu.edu/sbs/
+
 Also, consider joining the Southeastern Biogeochemistry Symposium Facebook Group:  (https://www.facebook.com/groups/668235483195677/). 
