@@ -27,3 +27,5 @@ The Southeastern Biogeochemistry Symposium is a unique opportunity for undergrad
 ***WATCH THIS SPACE FOR MORE UPDATES***
 
 ***Registration and Abstract Submission will open soon...***
+
+Also, consider joining the [Southeastern Biogeochemistry Symposium Facebook page] (https://www.facebook.com/groups/668235483195677/). 
