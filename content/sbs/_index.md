@@ -24,4 +24,6 @@ We are pleased to announce the ***12th Annual Southeastern Biogeochemistry Sympo
 
 The Southeastern Biogeochemistry Symposium is a unique opportunity for undergraduate students, graduate students, postdocs, and faculty members from the southeast to convene and present their latest biogeochemistry research.
 
+***WATCH THIS SPACE***
+
 ***Registration will open soon...***
