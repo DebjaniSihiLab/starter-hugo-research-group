@@ -1,6 +1,6 @@
 ---
-title: Congratulations to Praneswar Ghosh for winning 2nd prize in the 2025 NC PSI BRIDGE SYMPOSIUM
-date: 2024-02-27
+title: Congratulations to Praneswar Ghosh for winning 2nd prize in the 2025 NC PSI BRIDGE Symposium!
+date: 2025-02-27
 profile: false  # Show author profile
 image:
   focal_point: "top"
