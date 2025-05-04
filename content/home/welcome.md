@@ -32,7 +32,7 @@ design:
 
 **Sihi Biogeochemistry Lab**  moved to NC State University. We are currently recruiting postdocs, students, and other researchers. If you are interested in joining our group, please email the PI (Debjani Sihi) at dsihi@ncsu.edu. 
 
-We specialize in measuring and modeling Soil Organic Matter dynamics and Trace Gas Fluxes from natural and managed ecosystems. We enjoy coupling data generated from empirical studies and environmental networks with process-based (aka mechanistic) and AI (or machine learning) models. We use biogeochemical models to evaluate the fate of soil (and ecosystem) carbon (and nutrient) under disturbances in systems ranging from the tropics and subtropics to temperate and temperate-boreal transition zones and soils from forests, wetlands, grasslands, and agricultural landscapes. We are funded by NSF, DOE, USDA, and Valent Biosciences.
+We specialize in measuring and modeling soil organic matter dynamics and trace gas fluxes from natural and managed ecosystems. We enjoy coupling data generated from empirical studies and environmental networks with process-based (aka mechanistic) and AI (or machine learning) models. We use biogeochemical models to evaluate the fate of soil (and ecosystem) carbon (and nutrient) under disturbances in systems ranging from the tropics and subtropics to temperate and temperate-boreal transition zones and soils from forests, wetlands, grasslands, and agricultural landscapes. We are funded by NSF, DOE, USDA, and Valent Biosciences.
 
 
 
