@@ -16,3 +16,5 @@ role: Research Assistant
 organizations:
 - name: North Carolina State University
   url: ""
+user_groups:
+- Researchers
