@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Dana Kahn for successfully defending her MS thesis!
-date: 2025-02-27
+date: 2025-05-07
 profile: false  # Show author profile
 image:
   focal_point: "top"
