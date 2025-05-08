@@ -22,8 +22,8 @@ organizations:
 
 #interests:
  #- 
-education:
-  courses:
+#education:
+  #courses:
   # - course: PhD in Earth System Science
   #   institution: Auburn University
   #   year: 2021
