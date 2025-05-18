@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Srinivas Rao
+title: Praneswar Ghosh
 
 # Username (this should match the folder name)
 authors:
@@ -69,4 +69,4 @@ user_groups:
 
 ---
 
-Hello everyone!
+Hello everyone! I am a PhD student in the Soil Science program at North Carolina State University. I have completed my Bachelor’s in Agriculture (major in Soil Science) and Master’s with specialization in Agricultural Chemistry and Soil Science from Bidhan Chandra Krishi Viswavidyalaya (BCKV) in India. During my Master’s, I conducted research on finding soil phosphorus storage capacity, which is used as a key indicator to monitor environmental risk for phosphorus pollution. The broad picture of my research was to address phosphorus-related problems causing environmental pollution and better management of soil phosphorus. My current research interests encompass soil biogeochemistry, carbon sequestration, organic matter dynamics, soil-plant-microbe interaction, greenhouse gas dynamics, and soil health management. Outside of the lab, I enjoy traveling, cooking, and gardening.
