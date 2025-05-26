@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Dana Kahn for successfully defending her MS thesis!
+title: Congratulations to Dana for successfully defending her MS thesis!
 date: 2025-05-27
 profile: false  # Show author profile
 image:
