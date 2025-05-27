@@ -57,7 +57,7 @@ social:
 #  link: files/Du Yaxi_Resume.pdf
 #- icon: arrow-up-right-from-square
 #  icon_pack: fas
-#  link: https://yaxidu.com/
+#  link: https://yaxidu.com/ 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
