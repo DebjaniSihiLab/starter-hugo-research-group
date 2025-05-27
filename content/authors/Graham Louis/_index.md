@@ -56,7 +56,7 @@ social:
 #  link: files/Du Yaxi_Resume.pdf
 #- icon: arrow-up-right-from-square
 #  icon_pack: fas
-# link: https://yaxidu.com/
+# link: https://github.com/graham-louis
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
