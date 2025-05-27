@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Praneswar Ghosh
+title: Srinivas Rao Voruganti
 
 # Username (this should match the folder name)
 authors:
-- Sri
+- Srinivas Rao Voruganti
 
 # Is this the primary user of the site?
 superuser: false
