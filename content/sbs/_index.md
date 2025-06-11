@@ -26,6 +26,6 @@ The Southeastern Biogeochemistry Symposium is a unique opportunity for undergrad
 
 ***WATCH THIS [WEBSITE](https://sbs2025site.wordpress.ncsu.edu/) FOR MORE UPDATES***
 
-***Registration and Abstract Submission are now live!***
+***Registration and Abstract Submission are now closed!***
 
 Also, consider joining the [Southeastern Biogeochemistry Symposium Facebook Group](https://www.facebook.com/groups/668235483195677/). 
