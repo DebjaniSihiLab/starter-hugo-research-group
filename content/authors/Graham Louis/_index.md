@@ -21,18 +21,10 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-# - Terrestrial ecosystem model
-# - Carbon cycle
-# - Soil organic carbon
+ - Machine learning
 
 education:
   courses:
-  # - course: PhD in Earth System Science
-  #   institution: Auburn University
-  #   year: 2021
-  # - course: MS in Natural Resource Management
-  #   institution: Auburn University
-  #   year: 2019
   - course: BS 
     institution: University of Florida, Florida
     year: 2025
