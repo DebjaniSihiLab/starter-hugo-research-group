@@ -20,23 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
- - Carbon Sequestration
- - Soil Biogeochemistry
- - Soil organic matter/carbon dynamics
- - Greenhouse gas emissions
+#interests:
+# - Carbon Sequestration
+ #- Soil Biogeochemistry
+
 
 education:
   courses:
   # - course: PhD in Earth System Science
   #   institution: Auburn University
   #   year: 2021
-  - course: MS in Agricultural Chemistry and Soil Science
-    institution: Bidhan Chandra Krishi Viswavidyalaya, India
-    year: 2023
-  - course: BS in Agriculture
-    institution: Bidhan Chandra Krishi Viswavidyalaya, India
-    year: 2021
+ # - course: MS in Agricultural Chemistry and Soil Science
+  #  institution: Bidhan Chandra Krishi Viswavidyalaya, India
+  #  year: 2023
+ # - course: BS in Agriculture
+  #  institution: Bidhan Chandra Krishi Viswavidyalaya, India
+   # year: 2021
 
 
 # Social/Academic Networking
@@ -46,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pghosh5@ncsu.edu'
+  link: 'mailto:svoruga2@ncsu.edu'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/praneswar-ghosh/
+  link: https://www.linkedin.com/in/vorugantisrinivasrao/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
@@ -69,4 +68,13 @@ user_groups:
 
 ---
 
-Hello everyone! I am a PhD student in the Soil Science program at North Carolina State University. I have completed my Bachelor’s in Agriculture (major in Soil Science) and Master’s with specialization in Agricultural Chemistry and Soil Science from Bidhan Chandra Krishi Viswavidyalaya (BCKV) in India. During my Master’s, I conducted research on finding soil phosphorus storage capacity, which is used as a key indicator to monitor environmental risk for phosphorus pollution. The broad picture of my research was to address phosphorus-related problems causing environmental pollution and better management of soil phosphorus. My current research interests encompass soil biogeochemistry, carbon sequestration, organic matter dynamics, soil-plant-microbe interaction, greenhouse gas dynamics, and soil health management. Outside of the lab, I enjoy traveling, cooking, and gardening.
+Srinivas Rao Voruganti is originally from Karimnagar, India. He holds a Bachelor's degree in
+Agriculture from Vasantrao Naik Marathwada Krishi Vidyapeeth (2020) and a Masters. in
+Horticulture (Fruit Science) from Lovely Professional University (2022), where his research
+focused on optimizing papaya seed germination using various growing media and growth
+regulators. He later completed a second Master’s degree in Biotechnology at Fort Valley State
+University (2024), working on the synthesis and characterization of zeolite-based nitrogen
+nanofertilizers aimed at improving nitrogen use efficiency. Srinivas is currently a Research
+Assistant in Dr. Debjani Sihi’s lab at NC State University. He will begin his Ph.D. in Soil Science
+at NC State in August 2025. His broader research interests include nutrient cycling, microbial
+processes in soil systems, and sustainable land management.
