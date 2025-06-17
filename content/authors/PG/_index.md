@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Praneswar Ghosh
+title: Praneswar Ghosh (PG)
 
 # Username (this should match the folder name)
 authors:
