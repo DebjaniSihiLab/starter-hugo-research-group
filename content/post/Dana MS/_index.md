@@ -1,9 +1,19 @@
 ---
-title: 'Congratulations to Dana for successfully defending her MS thesis'
+title: 'Welcome new lab members'
 date: 2025-05-25
 profile: false  # Show author profile
 image:
   focal_point: "top"
 ---
 
-Congratulations to Dana Kahn for successfully defending her MS thesis, "Quantifying Gross Rates of Methane Production and Consumption in a Northern Forest". Dana's research was based on an NSF-funded project focused on the Northern Forests (https://www.debjanisihi.com/currentprojects/understanding-biophysical-drivers-of-the-ch4-source-sink-transition-in-northern-forests/). Dana graduated in Spring 2025 with an MS in Environmental Sciences from Emory.
+We are excited to welcome new team members! 
+
+Srinivas Rao Voruganti
+Srinivas is joining the Soil Science Program as a PhD student in Fall 2025. Sri has been working with us as a research specialist since last Spring. He has been awarded the GRAD-AID for AG Fellowship at NC State. Learn more about the NSF and NC State-funded training program here: https://units.cals.ncsu.edu/grad-aid-for-ag-nrt/. Congratulations, Sri!  
+
+Graham Louis
+Graham Louis is joining the Soil Science Program as a PhD student in Fall 2025. Graham is selected as one of the 2025–2026 cohort of Global Change Research Fellows of SE Climate Adaptation Science Center. Learn more about Graham and the fellowship here: https://secasc.ncsu.edu/home/about/people/global-change-fellows/. Congratualtions, Graham!
+
+Atharva Pansare
+We are excited to welcome Atharva Pansare as a research specialist. Atharva just graduated with his MS in Computer Science at NC State. He is working on several AI/ML and modeling assignments. Welcome back, Atharva!
+
