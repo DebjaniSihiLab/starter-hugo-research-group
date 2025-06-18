@@ -12,7 +12,7 @@ Rongyun Tang: We are excited to welcome Rongyun as a postdoctoral Researcher in 
 
 Srinivas Rao Voruganti: Srinivas is joining the Soil Science Program as a PhD student in Fall 2025. Sri has been working with us as a research specialist since last Spring. He completed his MS in Plant Biotechnology from Fort Valley State University. He has been awarded the GRAD-AID for AG Fellowship at NC State. Learn more about the NSF and NC State-funded training program here: https://units.cals.ncsu.edu/grad-aid-for-ag-nrt/. Congratulations, Sri!  
 
-Graham Louis: Graham Louis is joining the Soil Science Program as a PhD student in Fall 2025. Graham recently completed his BS in Computer Science from the University of Florida. Graham is selected as one of the 2025–2026 cohort of Global Change Research Fellows of the SE Climate Adaptation Science Center. Learn more about Graham and the fellowship here: https://secasc.ncsu.edu/home/about/people/global-change-fellows/. Congratualtions, Graham!
+Graham Louis: Graham Louis is joining the Soil Science Program as a PhD student in Fall 2025. Graham recently completed his BS in Computer Science from the University of Florida. Graham is selected as one of the 2025–2026 cohort of Global Change Research Fellows of the SE Climate Adaptation Science Center. Learn more about Graham and the fellowship here: https://secasc.ncsu.edu/people/graham-louis/. Congratualtions, Graham!
 
 Atharva Pansare: We are excited to welcome Atharva Pansare as a research specialist. Atharva just graduated with his MS in Computer Science at NC State. He is working on several AI/ML and modeling assignments. Welcome back, Atharva!
 
