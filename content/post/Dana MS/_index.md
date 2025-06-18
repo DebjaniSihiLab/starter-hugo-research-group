@@ -1,6 +1,6 @@
 ---
 title: 'Welcome new lab members'
-date: 2025-05-25
+date: 2025-06-17
 profile: false  # Show author profile
 image:
   focal_point: "top"
