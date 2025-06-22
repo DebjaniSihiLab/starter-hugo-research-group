@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Collaborator
+role: Collaborator (Digital Soil Mapping)
 
 # Organizations/Affiliations
 #organizations:
