@@ -76,5 +76,5 @@ regulators. He later completed a second Master’s degree in Biotechnology at Fo
 University (2024), working on the synthesis and characterization of zeolite-based nitrogen
 nanofertilizers aimed at improving nitrogen use efficiency. Srinivas is currently a Research
 Assistant in Dr. Debjani Sihi’s lab at NC State University. He will begin his Ph.D. in Soil Science
-at NC State in August 2025. His broader research interests include nutrient cycling, microbial
+at NC State in August 2025. He represents one of the inaugural cohorts of the GRAD-AID for Ag training program at NC State (https://units.cals.ncsu.edu/grad-aid-for-ag-nrt/). His broader research interests include nutrient cycling, microbial
 processes in soil systems, and sustainable land management.
