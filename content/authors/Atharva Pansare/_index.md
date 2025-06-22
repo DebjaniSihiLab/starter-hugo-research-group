@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Specialist (AI/ML, Modeling)
+role: Research Assistant (AI/ML, Modeling)
 
 # Organizations/Affiliations
 organizations:
