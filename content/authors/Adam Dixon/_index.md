@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Consultant
+role: Collaborator 
 
 # Organizations/Affiliations
 #organizations:
