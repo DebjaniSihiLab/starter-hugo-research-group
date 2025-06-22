@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant (AI/ML, Modeling)
+role: Research Assistant (AI/ML)
 
 # Organizations/Affiliations
 organizations:
