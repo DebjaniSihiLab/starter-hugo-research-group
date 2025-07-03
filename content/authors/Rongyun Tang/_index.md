@@ -25,8 +25,8 @@ organizations:
 #- Soil organic carbon
 #- Greenhouse gas balance
 #- Climate change mitigation and adaptation
-education:
-  courses:
+#education:
+  #courses:
   # - course: PhD in Earth System Science
   #   institution: Auburn University
   #   year: 2021
