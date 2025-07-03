@@ -25,21 +25,38 @@ organizations:
 #- Soil organic carbon
 #- Greenhouse gas balance
 #- Climate change mitigation and adaptation
-#education:
-  #courses:
-  #- course: PhD in Chemical Oceanography
-  #  institution: Florida State University
-  #  year: 2022
-  #- course: MS in STEM Teaching 
-   # institution: Florida State University
+education:
+  courses:
+  # - course: PhD in Earth System Science
+  #   institution: Auburn University
+  #   year: 2021
+  #- course: MS in Agricultural Chemistry and Soil Science
+   # institution: Bidhan Chandra Krishi Viswavidyalaya, India
+   # year: 2023
+ # - course: BS in Agriculture
+  #  institution: Bidhan Chandra Krishi Viswavidyalaya, India
    # year: 2021
-  #- course: BS in Geology, Music, Minor Environmental Studies
-  #  institution: Lawrence University
-   # year: 2013
-  social:
+
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rtang3@ncsu.edu'
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/praneswar-ghosh/
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#- icon: cv
+#  icon_pack: ai
+#  link: files/Du Yaxi_Resume.pdf
+#- icon: arrow-up-right-from-square
+#  icon_pack: fas
+#  link: https://yaxidu.com/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
