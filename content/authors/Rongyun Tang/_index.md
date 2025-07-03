@@ -36,6 +36,10 @@ organizations:
   #- course: BS in Geology, Music, Minor Environmental Studies
   #  institution: Lawrence University
    # year: 2013
+  social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:rtang3@ncsu.edu'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
