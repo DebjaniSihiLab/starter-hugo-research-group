@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Lead PI:** Debjani Sihi, Emory University
+**Lead PI:** [Debjani Sihi]( {{< relref "/authors/admin" >}} ), Emory University
 
 **Co-PIs and Collaborators:**
 
@@ -58,4 +58,4 @@ Jennifer Pett-Ridge – Lawrence Livermore National Lab
 **Brief description of the project:**\
 This DOE-funded (Environmental System Science Program) synthesis project investigates how soil carbon (C) loss responds to warming across climate extremes—specifically, cold (Arctic/boreal) and hot (tropical) ecosystems. Soils are the largest terrestrial C pool, and their warming-induced CO₂ emissions could significantly amplify climate change. However, responses to warming vary across ecosystems due to complex interactions among temperature, microbial communities, enzyme kinetics, substrate availability, and moisture.
 
-The interdisciplinary team will synthesize long-term data from six intensively studied field sites (including Puerto Rico, Alaska, Colorado, and Panama) and employ mechanistic biogeochemical models (e.g., DAMM, MEND, AquaMEND) along with explainable machine learning tools (e.g., LIME). The goal is to identify the direct and indirect drivers of temperature-sensitive soil respiration and disentangle how microbial processes differ between climate zones.
+The interdisciplinary team will synthesize long-term data from six intensively studied field sites (including Puerto Rico, Alaska, Colorado, and Panama) and employ mechanistic biogeochemical models (e.g., DAMM, MEND, AquaMEND) along with explainable machine learning tools (e.g., LIME). The goal is to identify the direct and indirect drivers of temperature-sensitive soil respiration and disentangle how microbial processes differ between climate zones. {{< figure src="TALE1.jpg" >}}
