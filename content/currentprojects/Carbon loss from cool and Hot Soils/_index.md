@@ -6,7 +6,7 @@ title: "A Tale of Two Extremes: Temperature Sensitivity of Carbon Loss from Cool
 authors: []
 tags: []
 categories: []
-date: 2025-07-08T00:21:38-05:00
+#date: 2025-07-08T00:21:38-05:00
 #profile: false  # Show author profile
 # Optional external URL for project (replaces project detail page).
 external_link: ""
