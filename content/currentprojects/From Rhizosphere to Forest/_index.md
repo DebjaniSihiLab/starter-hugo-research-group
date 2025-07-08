@@ -45,7 +45,7 @@ slides: ""
 
 Kristen DeAngelis, University of Massachusetts Amherst
 
-Debjani Sihi, Emory University
+Debjani Sihi, NC State University
 
 Benjamin Sulman, Oak Ridge National Laboratory
 
