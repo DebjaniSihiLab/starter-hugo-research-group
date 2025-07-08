@@ -49,7 +49,7 @@ Total Funding: $1,655,957 (Emory: $329,238)
 
 Meet our multi-institute collaborative team members: 
 Woodwell Climate Research Center, lead institute: Jennifer Watts (PI), Kathleen Savage (Co-PI)
-Emory University: Debjani Sihi (PI)
+NC State University: Debjani Sihi (PI)
 San Diego State University: Xiaofeng Xu (PI)
 Arizona State University: Hinsby Cadillo-Quiroz (PI)
 University of Maine: Shawn Fraver (PI)
