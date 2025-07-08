@@ -59,5 +59,14 @@ USDA Forest Service: David Hollinger (Collaborator)
 Brief description of the project : \
 We will obtain multi-scale observations of soil and aboveground methane fluxes, microbial traits, and associated in-situ environmental conditions. By using a suite of in-situ and lab-based experimental observations of methane production and oxidation, stable isotopes, microbial community composition and function, we hope to improve our understanding of the mechanisms, processes, and feedbacks driving methane sink/source activity across the microsite to landscape level. These datasets, integrated with project data-enhanced M3D-DAMM and CLM-Microbe process models, will enable us to answer the key questions of what are the primary environmental and biological controls of net methane sink/source activity in a sub-boreal forest, and how do these controls vary across space and time? To further understand and quantify methane response, we employ in-situ and laboratory manipulation experiments to identify the role of functional guild activity, under changing environmental conditions, in regulating methane production/oxidation and ultimately net methane flux to and from the atmosphere. Finally, we will apply our integrated datasets and data-informed/enhanced models to identify seasonal and annual methane sink/source activity at a sub-boreal forest (Howland forest) in New England region of USA from present to 2100. 
 
-For more information, please see our [project website](https://www.woodwellclimate.org/project/methane-cycling-in-northern-forests/publications-and-data/). 
+ {{< figure src="Team.jpg" >}} 
+ Howland Team in 2023 (Picture credit: Jeff Dorman)
+ 
+ {{< figure src="Tower.HEIC" >}}  
+ We climbed the EC Tower 
+ 
+ {{< figure src="Dana_AGU.jpg" >}}  
+Dana Kahn (former MS student) presenting at the AGU meeting 
+
+For more information, please see our [project website](https://www.woodwellclimate.org/project/methane-cycling-in-northern-forests/). 
 
