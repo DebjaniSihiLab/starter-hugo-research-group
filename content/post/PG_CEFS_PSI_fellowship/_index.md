@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Praneswar Ghosh for receiving TWO prestigious fellowships!
-date: 2025-02-27
+date: 2025-08-15
 profile: false  # Show author profile
 image:
   focal_point: "top"
