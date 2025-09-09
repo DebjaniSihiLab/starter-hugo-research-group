@@ -12,4 +12,4 @@ Big congratulations to Sihi Lab Ph.D. student Praneswar Ghosh (PG) for receiving
 
 **2025–26 CEFS Graduate Fellowship** from ***Center for Environmental Farming Systems (CEFS)***
 
-We are so proud of PG’s dedication and achievements. Keep up the amazing work, PG! 
+We are so proud of PG’s dedication and achievements. Keep up the amazing work, PG!!
