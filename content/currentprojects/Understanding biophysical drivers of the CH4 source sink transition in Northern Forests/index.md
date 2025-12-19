@@ -62,7 +62,7 @@ We will obtain multi-scale observations of soil and aboveground methane fluxes, 
  {{< figure src="Team.jpg" >}} 
  Howland Team in 2023 (Picture credit: Jeff Dorman)
  
- {{< figure src="Tower.HEIC" >}}  
+ {{< figure src="Tower.jpg" >}}  
  We climbed the EC Tower 
  
  {{< figure src="Dana_AGU.jpg" >}}  
