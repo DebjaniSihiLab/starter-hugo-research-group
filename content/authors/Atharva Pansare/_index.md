@@ -63,4 +63,4 @@ user_groups:
 
 ---
 
-Hello everyone! I am Atharva.
+I am a Master’s in Computer Science graduate from North Carolina State University (Class of May 2025), where I maintained a 4.0 GPA. Currently, I serve as a researcher in Dr. Sihi’s Lab, where I focus on data analysis, statistical modeling, and predictive simulations. While I enjoy the theoretical side of AI, my true passion lies at the intersection of Machine Learning and Software Engineering—I love taking complex math and building it into robust, real-world software solutions. My "builder" approach has led my teams to multiple wins at the NC PSI Hackathon (2024) and Hack_NCState (2025). I specialize in Python, Deep Learning, MLOps, and Backend Development, and I am always looking for ways to bridge the gap between high-level research and scalable deployment.
