@@ -31,7 +31,7 @@ education:
   # - course: Master's in Computer Science
   #   institution: North Carolina State University
   #   year: 2025
-  - course: BTech in Computer Science and Engineering
+  - course: BTech. in Computer Science and Engineering
     institution: MIT-World Peace University, Pune
     year: 2023
 
