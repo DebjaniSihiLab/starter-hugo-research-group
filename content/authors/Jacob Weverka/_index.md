@@ -21,10 +21,8 @@ organizations:
 # bio: 
 
 interests:
- - Machine Learning
- - Software Engineering
- - Building and Deploying AI/ML solutions
- - Data Engineering
+ - Soil Carbon Cycling
+ - Soil Microbial Biology
 
 education:
   courses:
