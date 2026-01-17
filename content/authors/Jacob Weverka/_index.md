@@ -28,7 +28,7 @@ education:
   courses:
    - course: PhD in Ecology and Evolution
      institution: University of California, Santa Barbara
-     year: 2015
+     year: 2025
 
 
 # Social/Academic Networking
